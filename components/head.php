@@ -9,7 +9,6 @@
     <meta content="" name="author">
     <meta name='robots' content="noindex, nofollow" />
     <link rel="icon" type="image/png" href="/assets/images/fav.ico">
-    <title>Book Marketing and Publishing Agency | Atlantic Book Publishers</title>
     <meta content="Need help to write a good book? Hire a writer for a book from Atlantic Book Publishers. You can get professional book formatting and book publishing services." name="description">
     <meta property="og:title" content="Hire a Book & eBook Writers - Atlantic Book Publishers">
     <meta property="og:description" content="Need help to write a good book? Hire a writer for a book from Atlantic Book Publishers. You can get professional book formatting and book publishing services.">

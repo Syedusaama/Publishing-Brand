@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<?php include "./components/head.php"?>
-
+    <title>Book Marketing and Publishing Agency | Atlantic Book Publishers</title>
   <body>
 	<?php include "./components/header.php"?>
 
@@ -608,7 +608,7 @@
 
 <!-- Review Section Begin -->
 
-
+<?php include "./components/reviews.php"?>
 
 <!-- Review Section End -->
 

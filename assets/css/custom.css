@@ -498,8 +498,12 @@ div#\:0\.targetLanguage select {
 .banner__img{
     width: 100%;
 }
-.img-responsive-books{
+/* .img-responsive-books{
     width: 570px;
+} */
+.img-responsive-books img{
+    width: 570px;
+    border-radius: 12px;
 }
 img.img-responsive.banner__img {
     height: 940px;

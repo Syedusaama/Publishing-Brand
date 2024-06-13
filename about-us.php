@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
+<title>About Us</title>
   <body>
       
   <?php include "./components/header.php"?>

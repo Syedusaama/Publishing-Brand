@@ -27,14 +27,14 @@
 
 						<div class="review__sec__item">
 							<div class="img-responsive-books">
-								<img src="assets/images/review-left-img-01.png" class="img-responsive" alt="Review">
+								<img src="assets/images/review-left-img-02.png" class="img-responsive" alt="Review">
 							</div>
 
 						</div>
 
 						<div class="review__sec__item">
 							<div class="img-responsive-books">
-								<img src="assets/images/review-left-img-01.png" class="img-responsive" alt="Review">
+								<img src="assets/images/review-left-img-03.png" class="img-responsive" alt="Review">
 							</div>
 						</div>
 
