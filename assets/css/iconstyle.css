@@ -1,0 +1,293 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('../fonts/icomoon.eot?2a22j7');
+    src:  url('../fonts/icomoon.eot?2a22j7#iefix') format('embedded-opentype'),
+      url('../fonts/icomoon.ttf?2a22j7') format('truetype'),
+      url('../fonts/icomoon.woff?2a22j7') format('woff'),
+      url('../fonts/icomoon.svg?2a22j7#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important; 
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-nodejs:before {
+    content: "\e925";
+    color: #394155;
+  }
+  .icon-python:before {
+    content: "\e926";
+    color: #394155;
+  }
+  .icon-webassembly:before {
+    content: "\e927";
+    color: #394155;
+  }
+  .icon-c .path1:before {
+    content: "\e928";
+    color: rgb(57, 65, 85);
+  }
+  .icon-c .path2:before {
+    content: "\e929";
+    margin-left: -0.892578125em;
+    color: rgb(23, 33, 56);
+  }
+  .icon-c .path3:before {
+    content: "\e92a";
+    margin-left: -0.892578125em;
+    color: rgb(253, 253, 254);
+  }
+  .icon-c .path4:before {
+    content: "\e92b";
+    margin-left: -0.892578125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-c .path5:before {
+    content: "\e92c";
+    margin-left: -0.892578125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-c .path6:before {
+    content: "\e92d";
+    margin-left: -0.892578125em;
+    color: rgb(23, 33, 56);
+  }
+  .icon-c .path7:before {
+    content: "\e92e";
+    margin-left: -0.892578125em;
+    color: rgb(84, 91, 108);
+  }
+  .icon-c .path8:before {
+    content: "\e92f";
+    margin-left: -0.892578125em;
+    color: rgb(1, 88, 156);
+  }
+  .icon-c .path9:before {
+    content: "\e930";
+    margin-left: -0.892578125em;
+    color: rgb(3, 69, 144);
+  }
+  .icon-c .path10:before {
+    content: "\e931";
+    margin-left: -0.892578125em;
+    color: rgb(255, 255, 255);
+  }
+  .icon-c .path11:before {
+    content: "\e932";
+    margin-left: -0.892578125em;
+    color: rgb(255, 255, 255);
+  }
+  .icon-go:before {
+    content: "\e933";
+    color: #394155;
+  }
+  .icon-indentity .path1:before {
+    content: "\e934";
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path2:before {
+    content: "\e935";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path3:before {
+    content: "\e936";
+    margin-left: -2.45703125em;
+    color: rgb(84, 91, 108);
+  }
+  .icon-indentity .path4:before {
+    content: "\e937";
+    margin-left: -2.45703125em;
+    color: rgb(84, 91, 108);
+  }
+  .icon-indentity .path5:before {
+    content: "\e938";
+    margin-left: -2.45703125em;
+    color: rgb(23, 33, 56);
+  }
+  .icon-indentity .path6:before {
+    content: "\e939";
+    margin-left: -2.45703125em;
+    color: rgb(23, 33, 56);
+  }
+  .icon-indentity .path7:before {
+    content: "\e93a";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path8:before {
+    content: "\e93b";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path9:before {
+    content: "\e93c";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path10:before {
+    content: "\e93d";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path11:before {
+    content: "\e93e";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path12:before {
+    content: "\e93f";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path13:before {
+    content: "\e940";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path14:before {
+    content: "\e941";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-indentity .path15:before {
+    content: "\e942";
+    margin-left: -2.45703125em;
+    color: rgb(57, 65, 85);
+  }
+  .icon-java:before {
+    content: "\e943";
+    color: #394155;
+  }
+  .icon-javascript:before {
+    content: "\e944";
+    color: #394155;
+  }
+  .icon-r-right:before {
+    content: "\e924";
+  }
+  .icon-l-left:before {
+    content: "\e945";
+  }
+  .icon-arr-right-02:before {
+    content: "\e922";
+  }
+  .icon-arr-left-02:before {
+    content: "\e923";
+  }
+  .icon-arr-left:before {
+    content: "\e920";
+  }
+  .icon-arr-right:before {
+    content: "\e921";
+  }
+  .icon-ic-technology-kotlin2x:before {
+    content: "\e91f";
+  }
+  .icon-ic-technology-swift2x:before {
+    content: "\e900";
+  }
+  .icon-ic-technology-typescript2x-2:before {
+    content: "\e901";
+  }
+  .icon-ic-technology-vue2x:before {
+    content: "\e902";
+  }
+  .icon-ic-technology-wordpress2x:before {
+    content: "\e903";
+  }
+  .icon-ic-technology-wpf2x:before {
+    content: "\e904";
+  }
+  .icon-ic-technology-android2x:before {
+    content: "\e905";
+  }
+  .icon-ic-technology-angular-js2x:before {
+    content: "\e906";
+  }
+  .icon-ic-technology-appium2x:before {
+    content: "\e907";
+  }
+  .icon-ic-technology-aws2x:before {
+    content: "\e908";
+  }
+  .icon-ic-technology-dynamodb2x:before {
+    content: "\e909";
+  }
+  .icon-ic-technology-firebase2x:before {
+    content: "\e90a";
+  }
+  .icon-ic-technology-flutter2x:before {
+    content: "\e90b";
+  }
+  .icon-ic-technology-gradle2x:before {
+    content: "\e90c";
+  }
+  .icon-ic-technology-html52x:before {
+    content: "\e90d";
+  }
+  .icon-ic-technology-ionic2x:before {
+    content: "\e90e";
+  }
+  .icon-ic-technology-ios2x-1:before {
+    content: "\e90f";
+  }
+  .icon-ic-technology-ios2x:before {
+    content: "\e910";
+  }
+  .icon-ic-technology-java2x:before {
+    content: "\e911";
+  }
+  .icon-ic-technology-jenkins2x:before {
+    content: "\e912";
+  }
+  .icon-ic-technology-magento2x:before {
+    content: "\e913";
+  }
+  .icon-ic-technology-mango-db:before {
+    content: "\e914";
+  }
+  .icon-ic-technology-ms-sql2x1:before {
+    content: "\e915";
+  }
+  .icon-ic-technology-my-sql2x:before {
+    content: "\e916";
+  }
+  .icon-ic-technology-node-js2x:before {
+    content: "\e917";
+  }
+  .icon-ic-technology-objectivec2x:before {
+    content: "\e918";
+  }
+  .icon-ic-technology-php2x:before {
+    content: "\e919";
+  }
+  .icon-ic-technology-react-native2x:before {
+    content: "\e91a";
+  }
+  .icon-ic-technology-react-native2x-1:before {
+    content: "\e91b";
+  }
+  .icon-ic-technology-redis2x:before {
+    content: "\e91c";
+  }
+  .icon-ic-technology-selenium2x-1:before {
+    content: "\e91d";
+  }
+  .icon-ic-technology-shopify-plus2x:before {
+    content: "\e91e";
+  }
