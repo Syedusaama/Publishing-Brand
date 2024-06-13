@@ -2,22 +2,22 @@
       <nav>
         <ul class="unstyled mainnav pbpx-15">
           <li><a href="/">Home</a></li>
-          <li><a href="/about-us.html">About Us</a></li>
+          <li><a href="/about-us.php">About Us</a></li>
           
           <li>
             <a href="javascript:;" class="">Book Publishing <i class="fa fa-angle-down"></i></a>
             <ul class="firstlevel unstyled" style="display: none;">
-              <li><a href="/book-publishing.html">Book Publishing</a></li>
-              <li><a href="/amazon-kdp-publishing.html">Amazon KDP Publishing</a></li>
-              <li><a href="/barnes-and-noble-publishing.html">Barnes & Noble Publishing</a></li>
+              <li><a href="/book-publishing.php">Book Publishing</a></li>
+              <li><a href="/amazon-kdp-publishing.php">Amazon KDP Publishing</a></li>
+              <li><a href="/barnes-and-noble-publishing.php">Barnes & Noble Publishing</a></li>
             </ul>
           </li>
           
-          <li ><a href="/book-marketing.html">Book Marketing</a></li>
+          <li ><a href="/book-marketing.php">Book Marketing</a></li>
           
           
           
-          <li><a href="/childrens-book-illustration.html">Children Books Illustration</a></li>
+          <li><a href="/childrens-book-illustration.php">Children Books Illustration</a></li>
           
           <!--<li>-->
           <!--  <a href="javascript:;" class="">Fiction Writing <i class="fa fa-angle-down"></i></a>-->
@@ -53,18 +53,18 @@
             <a href="javascript:;" class="">More Services <i class="fa fa-angle-down"></i></a>
             <ul class="firstlevel unstyled" style="display: none;">
                 
-              <li><a href="/audio-book.html">Audio Books</a></li>
-              <li><a href="/author-website-design.html">Author Website Design</a></li>
-              <li><a href="/book-cover-design.html">Book Cover Design</a></li>
-              <li><a href="/book-editing.html">Book Editing</a></li>
-              <li><a href="/book-formatting.html">Book Formatting</a></li>
-              <li><a href="/ghostwriting.html">Ghostwriting</a></li>
+              <li><a href="/audio-book.php">Audio Books</a></li>
+              <li><a href="/author-website-design.php">Author Website Design</a></li>
+              <li><a href="/book-cover-design.php">Book Cover Design</a></li>
+              <li><a href="/book-editing.php">Book Editing</a></li>
+              <li><a href="/book-formatting.php">Book Formatting</a></li>
+              <li><a href="/ghostwriting.php">Ghostwriting</a></li>
               
             </ul>
           </li>
 
           
-          <li ><a href="/contact-us.html">Contact us</a></li>
+          <li ><a href="/contact-us.php">Contact us</a></li>
 
         </ul>
       </nav>
@@ -96,14 +96,14 @@
                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                       <ul class="navbar-nav">
                         <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/about-us.html">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/about-us.php">About Us</a></li>
                         
                         <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="/book-publishing.html" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
+                          <a class="nav-link dropdown-toggle" href="/book-publishing.php" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.html">Amazon KDP Publishing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.html">Barnes & Noble Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.php">Amazon KDP Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.php">Barnes & Noble Publishing</a></li>
                           </ul>
                         </li>
 
@@ -140,8 +140,8 @@
                         
 
 
-                         <li class="nav-item"><a class="nav-link" href="/book-marketing.html">Book Marketing</a></li> 
-                         <li class="nav-item"><a class="nav-link" href="/childrens-book-illustration.html">Children Books Illustration</a></li> 
+                         <li class="nav-item"><a class="nav-link" href="/book-marketing.php">Book Marketing</a></li> 
+                         <li class="nav-item"><a class="nav-link" href="/childrens-book-illustration.php">Children Books Illustration</a></li> 
                          
                          
                          
@@ -152,12 +152,12 @@
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 
                             
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.html">Audio Books</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.html">Author Website Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.html">Book Cover Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.html">Book Editing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.html">Book Formatting</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.html">Ghostwriting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.php">Audio Books</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.php">Author Website Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.php">Book Cover Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.php">Book Editing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.php">Book Formatting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.php">Ghostwriting</a></li>
                           </ul>
                         </li>
 
