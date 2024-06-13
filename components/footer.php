@@ -1,3 +1,169 @@
+<!-- FAQ & Contact Section Begin -->
+	
+<section class="faq__contact padding__90">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-7">
+					<div class="faq__sec">
+						<div class="faq__sec__content">
+							<h6>Global Asked Questions</h6>
+							<h2>Frequently Asked Questions</h2>
+							<p>Find comprehensive answers to common queries about our services <br> and the authorial journey.</p>
+						</div>
+						<div id="accordion">
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingOne">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">How does the ghostwriting process work at Atlantic Book Publishers?  
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion" style="">
+			                    <div class="card-body">
+			                      Our ghostwriting process involves close collaboration with experienced writers who bring your ideas to life. We start with a detailed consultation to comprehend your vision and proceed to draft, edit, and finalize the manuscript, ensuring it aligns with your expectations.
+			                    </div>
+			                  </div>
+			                </div>
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingTwo">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">What genres do Atlantic Book Publishers specialize in for ghostwriting services?  
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			                    <div class="card-body">
+			                      We specialize in an extensive range of genres, comprising fiction, non-fiction, romance, mystery, fantasy, science fiction, memoirs, and more. Our diverse team of writers ensures we can cater to various literary preferences.      
+			                    </div>
+			                  </div>
+			                </div>
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingTwo">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+			                     Can I provide input during the writing process?  
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapse3" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			                    <div class="card-body">
+			                        Absolutely! We encourage constant collaboration. Your input is crucial, and our writers work closely with you, incorporating feedback to ensure the final manuscript aligns with your vision.     
+			                    </div>
+			                  </div>
+			                </div>
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingTwo">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">Do you offer book marketing services for self-published authors?
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapse4" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			                    <div class="card-body">
+			                        Yes, we provide comprehensive book marketing services, including strategic planning, online promotion, and outreach campaigns. Our goal is to enhance the visibility of your book in the competitive market.
+			                    </div>
+			                  </div>
+			                </div>
+
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingTwo">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">What sets Atlantic Book Publishers' editing and formatting services apart?
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapse5" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			                    <div class="card-body">
+			                        Our editing and formatting services are executed with precision and attention to detail. We ensure your manuscript meets industry standards, is error-free, and has a professional layout, enhancing its overall appeal.
+			                    </div>
+			                  </div>
+			                </div>
+
+			                <div class="card mb-3">
+			                  <div class="card-header" id="headingTwo">
+			                    <span class="mb-0">
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">How does the book publishing process work with Atlantic Book Publishers?
+			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
+			                      </button>
+			                    </span>
+			                  </div>
+			                  <div id="collapse6" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			                    <div class="card-body">
+			                        Our book publishing services encompass a seamless process, from cover design to distribution. We guide you through each step, guaranteeing a hassle-free publishing experience, whether you choose traditional or self-publishing routes.
+			                    </div>
+			                  </div>
+			                </div>
+			            </div>
+					</div>
+				</div>
+
+				<div class="col-sm-5">
+					<div class="faq__sec__content heading__form">
+						<h6>Contact Us</h6>
+						<h2>Join Us To Boost Your Publication And Writing Process.</h2>
+					</div>
+
+					<div class="contact__form__sec">
+						<form class="" id="banform" method="POST" action="webpages/contactSubmitController">
+							<div class="row">
+								<div class="col-sm-12">
+									<input type="text" name="name" placeholder="Your Name" required="" class="form-control">
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-sm-12">
+									<input type="email" name="email" placeholder="Your Email" required="" class="form-control">
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-sm-12">
+									<input id="phone-coun" name="number" rangelength="[7,12]" type="number" placeholder="Phone Number" required="" class="cta-phone" autocomplete="off">
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-sm-12">
+									<textarea class="form-control" name="message" placeholder="Talk About Your Project" required=""></textarea>
+								</div>
+							</div>
+
+							<div class="row">
+    							    <div class="col-sm-12">
+    							        <div class="form-group">
+                                          <label><input type="checkbox" class="quote-form" required=""> Please CHECK THE BOX to COMMUNICATE VIA SMS OR EMAIL (<a href="privacy-policy">PRIVACY POLICY </a>&amp; <a href="term-and-condition">TERM &amp; CONDITIONS</a>) - Carrier charges may apply for SMS. Reply STOP or UNSUBSCRIBE to STOP to unsubscribe anytime.</label>
+                                        </div>
+    							    </div>
+    							</div>
+    							
+    							
+
+							<div class="row">
+								<div class="col-sm-12">
+									<div class="btn__form">
+										<button type="submit">Submit</button>
+										<input type="hidden" name="ctry" value="">
+						                    <input type="hidden" name="pc" value="">
+						                    <input type="hidden" name="cip" value="">
+						                    <input type="hidden" name="hiddencapcha" value="">
+						                    <input type="hidden" id="location" name="pageURL" value="https://www.atlanticbookpublishers.com/about-us" />
+									</div>
+								</div>
+							</div>
+
+						</form>					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- FAQ & Contact Section End -->
 <footer>
 	<div class="container">
 		<div class="row">
