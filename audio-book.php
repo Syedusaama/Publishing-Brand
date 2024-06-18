@@ -466,7 +466,7 @@
 
 <!-- Review Section Begin -->
 
-<?php include "./components/review.php"?>
+<?php include "./components/reviews.php"?>
 
 <!-- Review Section End -->
 

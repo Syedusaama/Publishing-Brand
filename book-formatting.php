@@ -442,7 +442,7 @@
 <?php include "./components/reviews.php"?>
 
 <!-- Review Section End -->
-<?php include "./components/reviews.php"?>
+<?php include "./components/footer.php"?>
 
 
 </body>
