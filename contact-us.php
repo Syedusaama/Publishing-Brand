@@ -54,7 +54,7 @@
 
 						<div class="number__det">
 							<ul>
-								<li><a href="tel:8776753363">(877) 675-3363</a></li>
+								<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 							</ul>
 						</div>
 

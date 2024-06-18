@@ -3459,6 +3459,9 @@ span.auth__des {
 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     max-width: 700px;
 }
+.img-responsive-books img{
+    width: 350px;;
+}
 
 .logo__sec__mian img {
     filter: brightness(0) invert(1);
