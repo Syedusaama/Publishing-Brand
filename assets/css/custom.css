@@ -683,7 +683,7 @@ img.img-responsive.banner__img {
 .hme__about__sec:after {
     content: '';
     position: absolute;
-    background: url(../images/vector-img-01.svg);
+    background: url(../images/vector-img-01.webp);
     width: 504px;
     height: 546px;
     top: -210px;

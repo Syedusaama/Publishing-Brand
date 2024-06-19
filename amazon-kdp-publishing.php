@@ -258,7 +258,7 @@
     </div>
 
     <div class="vector__about1">
-        <img src="assets/images/vector-img-01.svg" class="img-responsive" alt="vector">
+        <img src="assets/images/vector-img-01.webp" class="img-responsive" alt="vector">
     </div>
 
 </section>

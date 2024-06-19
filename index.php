@@ -488,12 +488,12 @@
 		</div>
 
 		<div class="services__vector1">
-			<img src="assets/images/vector-img-02.svg" class="img-responsive" alt="vector">
+			<img src="assets/images/vector-img-02.webp" class="img-responsive" alt="vector">
 		</div>
 
 
 		<div class="services__vector3">
-			<img src="assets/images/vector-img-04.svg" class="img-responsive" alt="vector">
+			<img src="assets/images/vector-img-04.webp" class="img-responsive" alt="vector">
 		</div>
 
 	</section>
