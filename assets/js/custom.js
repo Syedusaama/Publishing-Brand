@@ -664,4 +664,3 @@ function order_now_value(objButton, packid=1){
   
   
   
-  
