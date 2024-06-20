@@ -525,7 +525,7 @@ img.img-responsive.banner__img {
 
 .banner__content h6,.banner__content span {
     font-weight: 500;
-    font-size: 22px;
+    /* font-size: 22px; */
     padding-bottom: 10px;
 }
 
@@ -1403,6 +1403,11 @@ footer{
 
 
 /*Inner Services Section Begin*/
+.inner-pages-head-clor{
+    background: transparent linear-gradient(98deg, var(--primary_color) 0%, var(--secondary_color) 100%) 0% 0% no-repeat padding-box;
+    padding: 0 15px;
+    border-radius: 5px;
+}
 
 .inner__services .banner__content h1 {
     font-size: 52px;
@@ -2252,9 +2257,9 @@ img.img-responsive.banner__img {
 }
 
 
-.banner__content h6,.banner__content span{
+/* .banner__content h6,.banner__content span{
     font-size: 20px;
-}
+} */
 
 .banner__content h1{
     font-size: 59px;

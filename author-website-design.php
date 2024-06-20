@@ -17,7 +17,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<h6>Author Website Design by Global Publishings </h6>
-				    			<h1>Connect With Our Experts For Customized Web Design Solutions.</h1>
+				    			<h1>Connect With Our Experts For Customized <span class="inner-pages-head-clor">Web Design</span> Solutions.</h1>
 
 				    			<p>Want to elevate your online presence as an author? Look no further! Our author website design services are tailored to give your literary endeavors a professional and captivating online platform.</p>
 

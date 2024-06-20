@@ -16,7 +16,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<!--<h6>Adventure Fiction Writers for Hire</h6>-->
-				    			<h1>Create Your Own Books and eBooks on Barnes & Noble Publishing</h1>
+				    			<h1>Create Your Own Books and eBooks on <span class="inner-pages-head-clor">Barnes & Noble</span> Publishing</h1>
 
 				    			<p>It only takes one click to get your book in front of millions of readers on one of the largest internet platforms. The ability of Global Publishingss to publish your books on Barnes & Noble is something we are proud of. You can now increase your chances of being seen by the readers you want to reach and engage them with creative, educational, and transformative stories. </p>
 

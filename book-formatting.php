@@ -18,7 +18,7 @@
                     <div class="col-sm-7">
                         <div class="banner__content text-left">
                             <!--<h6>Professional Book Formatting Services</h6>-->
-                            <h1>Experience the Art of Book Formatting Excellence </h1>
+                            <h1>Experience the Art of <span class="inner-pages-head-clor">Book Formatting</span> Excellence </h1>
 
                             <p>At Global Publishings, our book formatting service ensures your manuscript's layout is impeccable. We expertly format text, images, and design elements, providing a visually stunning presentation for your readers </p>
 

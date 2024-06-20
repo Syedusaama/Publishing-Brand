@@ -16,7 +16,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<h6>Book Cover Design by Global Publishings </h6>
-				    			<h1>We Do Not Just Create Book Covers; We Create Inspiration</h1>
+				    			<h1>We Do Not Just Create <span class="inner-pages-head-clor">Book Covers</span>, We Create Inspiration</h1>
 
 				    			<p>Explore our services and let Global Publishings be your trusted partner on the path to authorial success. We are making authors proud of their book covers.</p>
 

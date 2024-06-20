@@ -19,7 +19,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<!--<h6>Expert Book Publishing Services </h6>-->
-				    			<h1>Transform Manuscripts Into Masterpieces With Expert Book Publishing Service</h1>
+				    			<h1>Transform Manuscripts Into Masterpieces With Expert <br><span class="inner-pages-head-clor">Book Publishing</span> Service</h1>
 
 				    			<p>Embark on your publishing journey with Global Publishings. Our comprehensive service includes professional cover design, precise formatting, strategic distribution, and personalized marketing, ensuring your book reaches its fullest potential.</p>
 

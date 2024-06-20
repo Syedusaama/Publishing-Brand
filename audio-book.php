@@ -20,7 +20,7 @@
                     <div class="col-sm-7">
                         <div class="banner__content text-left">
                             <!--<h6>Hire A Memoir Writer </h6>-->
-                            <h1>Let Your Imagination Speak: Transforming Stories into Soundscapes</h1>
+                            <h1>Let Your Imagination Speak: Transforming Stories into <span class="inner-pages-head-clor">Soundscapes</span></h1>
                             
                             
 

@@ -20,7 +20,7 @@
                     <div class="col-sm-7">
                         <div class="banner__content text-left">
                             <!--<h6>Premium Children's Book Illustration Services </h6>-->
-                            <h1>We Provide Stunning Illustrations for Your Children's Book</h1>
+                            <h1>We Provide Stunning Illustrations for Your <span class="inner-pages-head-clor">Children's Book</span></h1>
 
                             <p>We are a team of experienced illustration artists committed to delivering exceptional results through efficient workflows and timely delivery.  </p>
 

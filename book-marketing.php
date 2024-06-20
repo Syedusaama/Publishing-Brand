@@ -20,7 +20,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<!--<h6>Skilled Marketing with Atlantic Book Marketing Services </h6>-->
-				    			<h1>Optimize Your Book's Visibility <br> with Strategic Book Marketing Excellence</h1>
+				    			<h1>Optimize Your Book's Visibility <br> with Strategic <span class="inner-pages-head-clor">Book Marketing</span> Excellence</h1>
 
 				    			<p>At Global Publishings, we've got the secret sauce to make your book shine. Our marketing magic ensures your story grabs attention, hooks readers, and becomes the talk of the town!</p>
 

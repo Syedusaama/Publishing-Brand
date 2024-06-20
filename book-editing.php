@@ -16,7 +16,7 @@
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
 			    				<!--<h6>Global Publishings Offers Expert Editing </h6>-->
-				    			<h1>Refine Your Manuscript to Perfection with Expert Editing </h1>
+				    			<h1>Refine Your Manuscript to Perfection with <span class="inner-pages-head-clor">Expert Editing</span> </h1>
 
 				    			<p>Experience the transformative touch of Global Publishings' editing service. Our seasoned editors delve into your manuscript, refining language, improving flow, and ensuring impeccable grammar. </p>
 

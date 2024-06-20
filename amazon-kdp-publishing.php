@@ -20,7 +20,7 @@
                     <div class="col-sm-7">
                         <div class="banner__content text-left">
                             <!--<h6>Adventure Fiction Writers for Hire</h6>-->
-                            <h1>Amazon Publishing Services by Global Publishingss</h1>
+                            <h1><span class="inner-pages-head-clor">Amazon Publishing</span> Services by Global Publishingss</h1>
 
                             <p>For many writers, it's an "all or nothing" situation when it comes to publishing on the largest online retailer in the world. However, by using Amazon's top marketing tools, such as Amazon KDP (Kindle Direct Publishing) Select, you may take advantage of Global Publishings's self-publishing possibilities and still benefit from our extensive worldwide distribution. This suggests that you can maximize your book's exposure on Amazon and expand its readership globally by utilizing Global Publishings's extensive distribution network. </p>
 
