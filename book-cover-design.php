@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
-<title>Creative eBook Cover Design - Atlantic Book Publishers</title>
+<title>Creative eBook Cover Design - Global Publishings</title>
   <body>
   <?php include "./components/header.php"?> 
 	<section class="banner__sec__main inner__services">
@@ -15,15 +15,15 @@
 			    	<div class="row align-items-center">
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
-			    				<h6>Book Cover Design by Atlantic Book Publishers </h6>
+			    				<h6>Book Cover Design by Global Publishings </h6>
 				    			<h1>We Do Not Just Create Book Covers; We Create Inspiration</h1>
 
-				    			<p>Explore our services and let Atlantic Book Publishers be your trusted partner on the path to authorial success. We are making authors proud of their book covers.</p>
+				    			<p>Explore our services and let Global Publishings be your trusted partner on the path to authorial success. We are making authors proud of their book covers.</p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -239,7 +239,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -277,7 +277,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -401,7 +401,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

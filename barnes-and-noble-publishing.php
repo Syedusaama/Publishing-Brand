@@ -18,12 +18,12 @@
 			    				<!--<h6>Adventure Fiction Writers for Hire</h6>-->
 				    			<h1>Create Your Own Books and eBooks on Barnes & Noble Publishing</h1>
 
-				    			<p>It only takes one click to get your book in front of millions of readers on one of the largest internet platforms. The ability of Atlantic Book Publisherss to publish your books on Barnes & Noble is something we are proud of. You can now increase your chances of being seen by the readers you want to reach and engage them with creative, educational, and transformative stories. </p>
+				    			<p>It only takes one click to get your book in front of millions of readers on one of the largest internet platforms. The ability of Global Publishingss to publish your books on Barnes & Noble is something we are proud of. You can now increase your chances of being seen by the readers you want to reach and engage them with creative, educational, and transformative stories. </p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -199,7 +199,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="inner__services__content">
-						<p>Atlantic Book Publisherss gives independent writers the tools and resources they need to become well-published on Barnes & Noble, assisting them with their self-publishing efforts. You can publish and directly sell print books and eBooks anywhere in the globe at any time with our quick and simple self-publishing service.</p>
+						<p>Global Publishingss gives independent writers the tools and resources they need to become well-published on Barnes & Noble, assisting them with their self-publishing efforts. You can publish and directly sell print books and eBooks anywhere in the globe at any time with our quick and simple self-publishing service.</p>
 					</div>
 				</div>
 
@@ -239,7 +239,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -281,7 +281,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -341,7 +341,7 @@
 								<div class="process__box">
 									<span>04</span>
 									<h4>PR & Marketing </h4>
-									<p>With the help of ARCs, networking opportunities, and launch-enhancing events, Atlantic Book Publisherss assists you with book marketing, promotion, and launch. </p>
+									<p>With the help of ARCs, networking opportunities, and launch-enhancing events, Global Publishingss assists you with book marketing, promotion, and launch. </p>
 								</div>
 							</div>
 
@@ -370,7 +370,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

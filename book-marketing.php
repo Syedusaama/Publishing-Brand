@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
-<title>Book Marketing and Publishing Agency | Atlantic Book Publishers</title>
+<title>Book Marketing and Publishing Agency | Global Publishings</title>
 
   <body>
   <?php include "./components/header.php"?>
@@ -22,12 +22,12 @@
 			    				<!--<h6>Skilled Marketing with Atlantic Book Marketing Services </h6>-->
 				    			<h1>Optimize Your Book's Visibility <br> with Strategic Book Marketing Excellence</h1>
 
-				    			<p>At Atlantic Book Publishers, we've got the secret sauce to make your book shine. Our marketing magic ensures your story grabs attention, hooks readers, and becomes the talk of the town!</p>
+				    			<p>At Global Publishings, we've got the secret sauce to make your book shine. Our marketing magic ensures your story grabs attention, hooks readers, and becomes the talk of the town!</p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -203,13 +203,13 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="inner__services__content">
-						<p>Supercharge your book's success with Atlantic Book Publishers comprehensive marketing package. We blend strategic promotion, social media mastery, and targeted outreach, ensuring your story resonates with the right audience, climbs bestseller charts, and leaves a lasting impact in the literary landscape. Trust us to amplify your book's presence, turning it into a captivating literary sensation that stands out in today's competitive market.</p>
+						<p>Supercharge your book's success with Global Publishings comprehensive marketing package. We blend strategic promotion, social media mastery, and targeted outreach, ensuring your story resonates with the right audience, climbs bestseller charts, and leaves a lasting impact in the literary landscape. Trust us to amplify your book's presence, turning it into a captivating literary sensation that stands out in today's competitive market.</p>
 					</div>
 				</div>
 
 				<div class="col-sm-6">
 					<div class="inner__services__content">
-						<h2>Atlantic Book Publishers Bespoke Marketing Package   </h2>
+						<h2>Global Publishings Bespoke Marketing Package   </h2>
 					</div>
 				</div>
 
@@ -221,7 +221,7 @@
 
 				<div class="col-sm-6">
 					<div class="inner__services__content">
-						<h6>Introducing our all-inclusive Book Marketing Package at Atlantic Book Publishers. From strategic online campaigns to media outreach and author branding, we provide a comprehensive suite of services to enahnce your book's visibility and ensure its success in the competitive literary landscape.</h6>
+						<h6>Introducing our all-inclusive Book Marketing Package at Global Publishings. From strategic online campaigns to media outreach and author branding, we provide a comprehensive suite of services to enahnce your book's visibility and ensure its success in the competitive literary landscape.</h6>
 
 						<ul class="services__point">
 							<li>Social media promotion</li>
@@ -250,7 +250,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -288,7 +288,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -310,7 +310,7 @@
 					<div class="process__rh__con">
 						<img src="assets/images/leaf.png" class="img-responsive leaf" alt="Leaf">
 						<h2>Atlantic Book Marketing –Your Roadmap Towards Success!</h2>
-						<p>Dive into the world of successful book marketing with Atlantic Book Publishers' Step-by-Step Guide. We'll walk you through crafting a winning strategy, executing impactful campaigns, and making your book the talk of the town. Let's turn your literary dream into reality!</p>
+						<p>Dive into the world of successful book marketing with Global Publishings' Step-by-Step Guide. We'll walk you through crafting a winning strategy, executing impactful campaigns, and making your book the talk of the town. Let's turn your literary dream into reality!</p>
 
 						<img src="assets/images/process-img-14.png" class="img-responsive" alt="Process">
 
@@ -409,18 +409,18 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="offering__content">
-						<h2>Why Choose Atlantic Book Publishers for Exceptional Marketing Excellence?</h2>
+						<h2>Why Choose Global Publishings for Exceptional Marketing Excellence?</h2>
 
 
 
-						<p>At Atlantic Book Publishers, our service goes beyond the conventional, offering a personalized strategy crafted to accentuate your book's unique qualities. We strategically position your work, optimizing your online presence through professionally designed websites and engaging social media profiles. With targeted outreach, we secure influential reviews, interviews, and features, ensuring your book resonates beyond your immediate network. </p>
+						<p>At Global Publishings, our service goes beyond the conventional, offering a personalized strategy crafted to accentuate your book's unique qualities. We strategically position your work, optimizing your online presence through professionally designed websites and engaging social media profiles. With targeted outreach, we secure influential reviews, interviews, and features, ensuring your book resonates beyond your immediate network. </p>
 
 						<p>Our engaging content creation, strategic partnerships, and media presence amplify your book's visibility. With data analytics, we track performance and make informed adjustments, while ongoing promotion sustains excitement. Trust us for a holistic marketing journey that captures readers' hearts and propels your book to the forefront of the literary landscape.</p>
 
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

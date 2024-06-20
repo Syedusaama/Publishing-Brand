@@ -16,7 +16,7 @@
 			    	<div class="row align-items-center">
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
-			    				<h6>Author Website Design by Atlantic Book Publishers </h6>
+			    				<h6>Author Website Design by Global Publishings </h6>
 				    			<h1>Connect With Our Experts For Customized Web Design Solutions.</h1>
 
 				    			<p>Want to elevate your online presence as an author? Look no further! Our author website design services are tailored to give your literary endeavors a professional and captivating online platform.</p>
@@ -24,7 +24,7 @@
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -241,7 +241,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -278,7 +278,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -376,18 +376,18 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="offering__content">
-						<h2>Why Atlantic Book Publishers' Web Designers Stand Out: A Unique Marketplace Experience </h2>
+						<h2>Why Global Publishings' Web Designers Stand Out: A Unique Marketplace Experience </h2>
 
 
 
-						<p>At Atlantic Book Publishers, we transcend the conventional approach to author website design. We are not just a company creating websites; we are a dynamic marketplace connecting you with the finest professionals in the publishing domain.    </p>
+						<p>At Global Publishings, we transcend the conventional approach to author website design. We are not just a company creating websites; we are a dynamic marketplace connecting you with the finest professionals in the publishing domain.    </p>
 
-						<p>At Atlantic Book Publishers, our commitment is not just to build a website but to match you with the right talent that understands and enhances your unique authorial identity.</p>
+						<p>At Global Publishings, our commitment is not just to build a website but to match you with the right talent that understands and enhances your unique authorial identity.</p>
 
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

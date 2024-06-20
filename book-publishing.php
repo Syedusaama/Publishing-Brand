@@ -21,12 +21,12 @@
 			    				<!--<h6>Expert Book Publishing Services </h6>-->
 				    			<h1>Transform Manuscripts Into Masterpieces With Expert Book Publishing Service</h1>
 
-				    			<p>Embark on your publishing journey with Atlantic Book Publishers. Our comprehensive service includes professional cover design, precise formatting, strategic distribution, and personalized marketing, ensuring your book reaches its fullest potential.</p>
+				    			<p>Embark on your publishing journey with Global Publishings. Our comprehensive service includes professional cover design, precise formatting, strategic distribution, and personalized marketing, ensuring your book reaches its fullest potential.</p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -202,7 +202,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="inner__services__content">
-						<p>Experience the full spectrum of book publishing excellence with Atlantic Book Publishers. From crafting captivating cover designs to meticulous formatting, our service extends to strategic distribution, placing your book in the hands of the right audience. We amplify your success with personalized marketing strategies, fostering engagement and visibility in the competitive literary landscape. Trust us to guide your manuscript to its pinnacle, where it becomes a celebrated and cherished literary creation.</p>
+						<p>Experience the full spectrum of book publishing excellence with Global Publishings. From crafting captivating cover designs to meticulous formatting, our service extends to strategic distribution, placing your book in the hands of the right audience. We amplify your success with personalized marketing strategies, fostering engagement and visibility in the competitive literary landscape. Trust us to guide your manuscript to its pinnacle, where it becomes a celebrated and cherished literary creation.</p>
 					</div>
 				</div>
 
@@ -249,7 +249,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -287,7 +287,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -309,7 +309,7 @@
 					<div class="process__rh__con">
 						<img src="assets/images/leaf.png" class="img-responsive leaf" alt="Leaf">
 						<h2>A Step-By-Step Guide To Achieving Publishing Success</h2>
-						<p>Navigate the exciting world of publishing with Atlantic Book Publishers' step-by-step guide. From manuscript refinement to strategic marketing, our comprehensive process ensures your book's seamless journey to publication and success.</p>
+						<p>Navigate the exciting world of publishing with Global Publishings' step-by-step guide. From manuscript refinement to strategic marketing, our comprehensive process ensures your book's seamless journey to publication and success.</p>
 
 						<img src="assets/images/process-img-10.png" class="img-responsive" alt="Process">
 
@@ -397,14 +397,14 @@
 
 
 
-						<p>Embarking on your publishing journey with Atlantic Book Publishers means choosing a dedicated partner committed to bringing your literary dreams to life. We stand out by offering a holistic Book Publishing Service that goes beyond the norm. From meticulously refining your manuscript to crafting a visually captivating cover, implementing strategic distribution, and formulating a personalized marketing plan, we are your literary allies. What truly sets us apart is our unwavering support and continuous guidance even after your book hits the shelves. </p>
+						<p>Embarking on your publishing journey with Global Publishings means choosing a dedicated partner committed to bringing your literary dreams to life. We stand out by offering a holistic Book Publishing Service that goes beyond the norm. From meticulously refining your manuscript to crafting a visually captivating cover, implementing strategic distribution, and formulating a personalized marketing plan, we are your literary allies. What truly sets us apart is our unwavering support and continuous guidance even after your book hits the shelves. </p>
 
-						<p>We provide an inclusive platform where your voice is heard, your vision is honored, and your success is our priority. Trust Atlantic Book Publishers for a publishing experience that's not just about printing books but creating a lasting impact, ensuring your literary masterpiece finds its rightful place in the hearts of readers worldwide.</p>
+						<p>We provide an inclusive platform where your voice is heard, your vision is honored, and your success is our priority. Trust Global Publishings for a publishing experience that's not just about printing books but creating a lasting impact, ensuring your literary masterpiece finds its rightful place in the hearts of readers worldwide.</p>
 
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

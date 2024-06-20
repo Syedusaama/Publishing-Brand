@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
-<title>Book Marketing and Publishing Agency | Atlantic Book Publishers</title>
+<title>Book Marketing and Publishing Agency | Global Publishings</title>
 
   <body>
   <?php include "./components/header.php"?>
@@ -20,12 +20,12 @@
 			    				<!-- <h6>CONTACT US TODAY WE ARE NOT DIFFICULT TO REACH</h6> -->
 				    			<h1>We welcome your inquiries, feedback, <br> and collaboration ideas. </h1>
 
-				    			<p>Welcome to Atlantic Book Publishers, where words come alive, stories unfold, and literary dreams find their home.</p>
+				    			<p>Welcome to Global Publishings, where words come alive, stories unfold, and literary dreams find their home.</p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -127,13 +127,13 @@
 			<div class="col-sm-5">
 				<div class="footer__det">
 					<div class="footer__logo">
-						<a href="/"><img srcset="assets/images/logo.png" class="img-responsive" alt="Atlantic Book Publishers"></a>
+						<a href="/"><img srcset="assets/images/logo.png" class="img-responsive" alt="Global Publishings"></a>
 					</div>
 
 					<div class="footer__content__sec">
 						<p>We offer all-inclusive services to cater to author needs with a 360-degree approach. Our motto is to ensure a stress-free ground for authors. With our all-in-one solution, you can just overhaul the process and leave the rest to us.</p>
                         
-                        <p>This website is under the ownership of Atlantic Book Writers, operating as Atlantic Book Publishers.</p>
+                        <p>This website is under the ownership of Global Book Writers, operating as Global Publishings.</p>
                         
                         <div class="social__media__icon">
                             <ul>
@@ -230,7 +230,7 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="copy__text">
-						<p>© Copyright 2024 | Atlantic Book Publishers | All right reserved.</p>
+						<p>© Copyright 2024 | Global Publishings | All right reserved.</p>
 					</div>
 				</div>
 				<div class="col-sm-6">

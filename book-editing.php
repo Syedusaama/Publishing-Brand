@@ -15,15 +15,15 @@
 			    	<div class="row align-items-center">
 			    		<div class="col-sm-7">
 			    			<div class="banner__content text-left">
-			    				<!--<h6>Atlantic Book Publishers Offers Expert Editing </h6>-->
+			    				<!--<h6>Global Publishings Offers Expert Editing </h6>-->
 				    			<h1>Refine Your Manuscript to Perfection with Expert Editing </h1>
 
-				    			<p>Experience the transformative touch of Atlantic Book Publishers' editing service. Our seasoned editors delve into your manuscript, refining language, improving flow, and ensuring impeccable grammar. </p>
+				    			<p>Experience the transformative touch of Global Publishings' editing service. Our seasoned editors delve into your manuscript, refining language, improving flow, and ensuring impeccable grammar. </p>
 
 				    			<div class="banner__btn">
 				    				<ul>
 				    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-				    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+				    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 				    				</ul>
 				    			</div>
 
@@ -199,7 +199,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="inner__services__content">
-						<p>At Atlantic Book Publishers, our expert editing service polishes your manuscript to perfection. We enhance clarity, coherence, and style, ensuring your story captivates readers with every carefully crafted word. With meticulous attention to detail, we elevate your writing to its highest potential, making your story an irresistible literary masterpiece.   </p>
+						<p>At Global Publishings, our expert editing service polishes your manuscript to perfection. We enhance clarity, coherence, and style, ensuring your story captivates readers with every carefully crafted word. With meticulous attention to detail, we elevate your writing to its highest potential, making your story an irresistible literary masterpiece.   </p>
 					</div>
 				</div>
 
@@ -237,7 +237,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 					</div>
@@ -277,7 +277,7 @@
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 
@@ -299,7 +299,7 @@
 					<div class="process__rh__con">
 						<img src="assets/images/leaf.png" class="img-responsive leaf" alt="Leaf">
 						<h2>A Step by Step Guide to Editing Your Manuscript</h2>
-						<p>Navigate the refinement of your manuscript seamlessly with our step-by-step editing process at Atlantic Book Publishers. From initial consultation to final revisions, our guide ensures your story receives the meticulous attention it deserves, transforming it into a literary masterpiece.</p>
+						<p>Navigate the refinement of your manuscript seamlessly with our step-by-step editing process at Global Publishings. From initial consultation to final revisions, our guide ensures your story receives the meticulous attention it deserves, transforming it into a literary masterpiece.</p>
 
 						<img src="assets/images/process-img-06.png" class="img-responsive" alt="Process">
 
@@ -370,14 +370,14 @@
 
 
 
-						<p>At Atlantic Book Publishers, our editing service is not just about correcting grammar; it's a holistic journey of refinement. Our seasoned editors go beyond the basics, meticulously refining grammar, structure, and style to enhance your story's clarity and coherence. What sets us apart is our commitment to collaboration; we value your voice and vision, ensuring a personalized touch throughout the process. With a comprehensive approach that includes multiple rounds of editing and a dedicated author feedback loop, we craft a polished masterpiece that not only meets but exceeds your expectations.  </p>
+						<p>At Global Publishings, our editing service is not just about correcting grammar; it's a holistic journey of refinement. Our seasoned editors go beyond the basics, meticulously refining grammar, structure, and style to enhance your story's clarity and coherence. What sets us apart is our commitment to collaboration; we value your voice and vision, ensuring a personalized touch throughout the process. With a comprehensive approach that includes multiple rounds of editing and a dedicated author feedback loop, we craft a polished masterpiece that not only meets but exceeds your expectations.  </p>
 
 						<p>Trust us for a transformative journey where your story emerges as a captivating literary gem, ready to enchant readers. </p>
 
 						<div class="banner__btn btn2">
 		    				<ul>
 		    					<li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-		    					<li><a href="tel:8776753363">(877) 675-3363</a></li>
+		    					<li><a href="tel:15623421027">+1 562 342 1027</a></li>
 		    				</ul>
 		    			</div>
 

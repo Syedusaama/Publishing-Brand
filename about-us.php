@@ -21,7 +21,7 @@
 			    		<div class="col-sm-12">
 			    			<div class="banner__content">
 			    				<!--<h6>Get To Know Us</h6>-->
-				    			<h1>About Atlantic Book Publishers</h1>
+				    			<h1>About Global Publishings</h1>
 
 				    			<p>We're not just storytellers; we're your literary allies, shaping your narrative journey into a compelling, bestselling reality.</p>
 
@@ -55,10 +55,10 @@
 						
 						<h2>A Dedicated Legion of Skilled Wordsmiths, Ready to Bring Your Story to Life</h2>
 
-						<p>At Atlantic Book Publishers, we understand that every author has a unique voice and vision, and our goal is to honor that individuality. With a focus on delivering a comprehensive range of solutions, we guide our clients through the intricacies of writing, publishing, and marketing with the utmost professionalism. Our mission is centered on providing tailored services to ensure a seamless and efficacious experience for authors seeking to bring their literary works to fruition. </p>
+						<p>At Global Publishings, we understand that every author has a unique voice and vision, and our goal is to honor that individuality. With a focus on delivering a comprehensive range of solutions, we guide our clients through the intricacies of writing, publishing, and marketing with the utmost professionalism. Our mission is centered on providing tailored services to ensure a seamless and efficacious experience for authors seeking to bring their literary works to fruition. </p>
 
 
-						<p>Atlantic Book Publishers aspires to become more than a service provider; we aim to be your creative ally on this authorial journey. Why do we do it? Because we’re driven by the transformative power of storytelling, and our commitment lies in making the process seamless for you. Through close collaboration, we ensure your book not only mirrors your style but resonates deeply with your intended audience. Join us at Atlantic Book Publishers, where your story becomes a shared experience, leaving an enduring mark on literary landscapes. </p>
+						<p>Global Publishings aspires to become more than a service provider; we aim to be your creative ally on this authorial journey. Why do we do it? Because we’re driven by the transformative power of storytelling, and our commitment lies in making the process seamless for you. Through close collaboration, we ensure your book not only mirrors your style but resonates deeply with your intended audience. Join us at Global Publishings, where your story becomes a shared experience, leaving an enduring mark on literary landscapes. </p>
 
 						<div class="banner__btn btn2">
 		    				<ul>
@@ -168,7 +168,7 @@
 						</div>
 						<div class="become__content">
 							<h6>Secure Ownership <br> Rights</h6>
-							<p>When you choose Atlantic Book Publishers, you retain complete ownership of your book. We do not claim any rights to reuse your material.</p>
+							<p>When you choose Global Publishings, you retain complete ownership of your book. We do not claim any rights to reuse your material.</p>
 						</div>
 					</div>
 				</div>
@@ -236,11 +236,11 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="offering__content">
-						<h2>What Sets Atlantic Book Publishers Apart? Our Dedication to Perfection!</h2>
+						<h2>What Sets Global Publishings Apart? Our Dedication to Perfection!</h2>
 						
-						<p>At Atlantic Book Publishers, we pride ourselves on delving deep into the essence of your narrative, meticulously undergoing multiple revisions to ensure every detail is refined to your taste. From designing the most eye-catching covers to the precise formatting tailored to each platform, our commitment to excellence is unwavering. Our expertise extends beyond writing, encompassing the intricate journey of publishing, where we navigate complexities to ensure your book graces the shelves flawlessly.   </p>
+						<p>At Global Publishings, we pride ourselves on delving deep into the essence of your narrative, meticulously undergoing multiple revisions to ensure every detail is refined to your taste. From designing the most eye-catching covers to the precise formatting tailored to each platform, our commitment to excellence is unwavering. Our expertise extends beyond writing, encompassing the intricate journey of publishing, where we navigate complexities to ensure your book graces the shelves flawlessly.   </p>
 
-						<p>Choose Atlantic Book Publishers for a journey where your story is not merely written but thoughtfully crafted, transforming it into a compelling reality that captivates readers irresistibly. Your literary aspirations deserve nothing less than our meticulous dedication and professional expertise.</p>
+						<p>Choose Global Publishings for a journey where your story is not merely written but thoughtfully crafted, transforming it into a compelling reality that captivates readers irresistibly. Your literary aspirations deserve nothing less than our meticulous dedication and professional expertise.</p>
 
 						<div class="banner__btn btn2">
 		    				<ul>

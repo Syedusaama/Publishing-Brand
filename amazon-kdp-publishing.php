@@ -20,14 +20,14 @@
                     <div class="col-sm-7">
                         <div class="banner__content text-left">
                             <!--<h6>Adventure Fiction Writers for Hire</h6>-->
-                            <h1>Amazon Publishing Services by Atlantic Book Publisherss</h1>
+                            <h1>Amazon Publishing Services by Global Publishingss</h1>
 
-                            <p>For many writers, it's an "all or nothing" situation when it comes to publishing on the largest online retailer in the world. However, by using Amazon's top marketing tools, such as Amazon KDP (Kindle Direct Publishing) Select, you may take advantage of Atlantic Book Publishers's self-publishing possibilities and still benefit from our extensive worldwide distribution. This suggests that you can maximize your book's exposure on Amazon and expand its readership globally by utilizing Atlantic Book Publishers's extensive distribution network. </p>
+                            <p>For many writers, it's an "all or nothing" situation when it comes to publishing on the largest online retailer in the world. However, by using Amazon's top marketing tools, such as Amazon KDP (Kindle Direct Publishing) Select, you may take advantage of Global Publishings's self-publishing possibilities and still benefit from our extensive worldwide distribution. This suggests that you can maximize your book's exposure on Amazon and expand its readership globally by utilizing Global Publishings's extensive distribution network. </p>
 
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -242,7 +242,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
                 </div>
@@ -284,7 +284,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
@@ -390,7 +390,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 

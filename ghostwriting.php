@@ -25,7 +25,7 @@
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -237,7 +237,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
                 </div>
@@ -275,7 +275,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
@@ -387,15 +387,15 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="offering__content">
-                    <h2>Atlantic Book Publishers – A One Stop Solution for All Your Ghost Writing Needs</h2>
+                    <h2>Global Publishings – A One Stop Solution for All Your Ghost Writing Needs</h2>
                     <p>Choose us for unparalleled ghostwriting excellence driven by our commitment to quality, collaboration, and your unique vision. Our seasoned ghostwriters excel in transforming your ideas into compelling narratives, ensuring a seamless and authentic representation of your voice. What sets us apart is our dedication to client involvement at every stage, from initial discussions to multiple feedback loops, ensuring your satisfaction.  </p>
 
-                    <p>We pride ourselves on meeting deadlines with precision, coupled with a flexible and transparent approach to project management. With a proven track record, a diverse range of genre expertise, and meticulous attention to detail, Atlantic Book Publishers is the ideal partner for turning your literary aspirations into a captivating reality.</p>
+                    <p>We pride ourselves on meeting deadlines with precision, coupled with a flexible and transparent approach to project management. With a proven track record, a diverse range of genre expertise, and meticulous attention to detail, Global Publishings is the ideal partner for turning your literary aspirations into a captivating reality.</p>
 
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 

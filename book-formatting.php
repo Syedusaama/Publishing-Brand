@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
-<title>Book Formatting Services - Atlantic Book Publishers</title>
+<title>Book Formatting Services - Global Publishings</title>
   <body>
   <?php include "./components/header.php"?>    
 <!-- Banner Section Begin -->
@@ -20,12 +20,12 @@
                             <!--<h6>Professional Book Formatting Services</h6>-->
                             <h1>Experience the Art of Book Formatting Excellence </h1>
 
-                            <p>At Atlantic Book Publishers, our book formatting service ensures your manuscript's layout is impeccable. We expertly format text, images, and design elements, providing a visually stunning presentation for your readers </p>
+                            <p>At Global Publishings, our book formatting service ensures your manuscript's layout is impeccable. We expertly format text, images, and design elements, providing a visually stunning presentation for your readers </p>
 
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -201,13 +201,13 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="inner__services__content">
-                    <p>Unlock the visual allure of your manuscript with Atlantic Book Publishers' expert book formatting service. We meticulously organize text, enhance visual elements, and optimize layout for a seamless reading experience across devices such as Kindle, Nook, and other e-book platforms. Our commitment is to transform your written words into a visually captivating literary masterpiece that engages and delights readers.  </p>
+                    <p>Unlock the visual allure of your manuscript with Global Publishings' expert book formatting service. We meticulously organize text, enhance visual elements, and optimize layout for a seamless reading experience across devices such as Kindle, Nook, and other e-book platforms. Our commitment is to transform your written words into a visually captivating literary masterpiece that engages and delights readers.  </p>
                 </div>
             </div>
 
             <div class="col-sm-6">
                 <div class="inner__services__content">
-                    <h2>Find The Perfect Layout For Your Book With Atlantic Book Publishers </h2>
+                    <h2>Find The Perfect Layout For Your Book With Global Publishings </h2>
                 </div>
             </div>
 
@@ -219,7 +219,7 @@
 
             <div class="col-sm-6">
                 <div class="inner__services__content">
-                    <h6>Step into the world of refined presentation with our Expert Book Formatting Package at Atlantic Book Publishers. Elevate your book's appeal and captivate readers with our comprehensive formatting solutions</h6>
+                    <h6>Step into the world of refined presentation with our Expert Book Formatting Package at Global Publishings. Elevate your book's appeal and captivate readers with our comprehensive formatting solutions</h6>
 
                     <ul class="services__point">
                         <li>Professional layout design</li>
@@ -238,7 +238,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
                 </div>
@@ -276,7 +276,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
@@ -298,7 +298,7 @@
                 <div class="process__rh__con">
                     <img src="assets/images/leaf.png" class="img-responsive leaf" alt="Leaf">
                     <h2>A Step-by-Step Guide to Formatting Your Manuscript</h2>
-                    <p>Dive into the art of visual storytelling with Atlantic Book Publishers' step-by-step formatting process. From layout design to final touches, our guide ensures your manuscript transforms into a visually stunning masterpiece, captivating readers with its polished presentation.</p>
+                    <p>Dive into the art of visual storytelling with Global Publishings' step-by-step formatting process. From layout design to final touches, our guide ensures your manuscript transforms into a visually stunning masterpiece, captivating readers with its polished presentation.</p>
 
                     <img src="assets/images/process-img-13.png" class="img-responsive" alt="Process">
 
@@ -394,14 +394,14 @@
 
 
 
-                    <p>Choose Atlantic Book Publishers for a book formatting service that transcends standard presentation. Our dedicated team combines artistic flair with technical precision to transform your manuscript into a visually stunning masterpiece. From professional layout design and consistent formatting to seamless integration of images and special elements, we prioritize excellence in every detail. What sets us apart is our commitment to collaboration, involving authors in the process and ensuring the final product aligns perfectly with their vision.   </p>
+                    <p>Choose Global Publishings for a book formatting service that transcends standard presentation. Our dedicated team combines artistic flair with technical precision to transform your manuscript into a visually stunning masterpiece. From professional layout design and consistent formatting to seamless integration of images and special elements, we prioritize excellence in every detail. What sets us apart is our commitment to collaboration, involving authors in the process and ensuring the final product aligns perfectly with their vision.   </p>
 
                     <p>Our quality assurance checks guarantee a flawless presentation for both print and e-book formats. Entrust us with your manuscript, and witness how our expertise in book formatting elevates your written words, creating a captivating reading experience that engages and delights readers. </p>
 
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 

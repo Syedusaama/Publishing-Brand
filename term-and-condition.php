@@ -20,12 +20,12 @@
                             <!-- <h6>Get To Know Us</h6> -->
                             <h1>Term and Condition</h1>
 
-                            <!-- <p>Welcome to Atlantic Book Publishers, where words come alive, stories unfold, and literary dreams find their home.</p> -->
+                            <!-- <p>Welcome to Global Publishings, where words come alive, stories unfold, and literary dreams find their home.</p> -->
 
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -48,7 +48,7 @@
                 <div class="privacy_policy__content">
                     <h3>TERMS &amp; CONDITIONS</h3>
                     
-                    <p>The following terms and conditions apply to projects undertaken by <a href="/" target="_blank">www.atlanticbookpublishers.com</a></p>
+                    <p>The following terms and conditions apply to projects undertaken by <a href="/" target="_blank">www.globalpublishings.com</a></p>
                 </div>
                 
                 
@@ -98,7 +98,7 @@
                     
                     <p>You may claim a full refund of your amount before we have started working on your project. However, once the work has started on a project the refund will be processed after deducting any applicable transaction charges from the amount. Refund requests will not be accepted if you sign up using a limited time or discounted promotion.</p>
                     
-                    <p>A refund request can be submitted if you are not satisfied with any product or service provided by Atlantic Book Publishers within 5 days of your order completion. Certain percentage based refund would be granted if we are unable to provide required service through our unlimited revision policy. If no refund request is received within five days after your order has been delivered, your satisfaction over the delivered order shall be assumed by both the parties.</p>
+                    <p>A refund request can be submitted if you are not satisfied with any product or service provided by Global Publishings within 5 days of your order completion. Certain percentage based refund would be granted if we are unable to provide required service through our unlimited revision policy. If no refund request is received within five days after your order has been delivered, your satisfaction over the delivered order shall be assumed by both the parties.</p>
                     
                 </div>
                 
@@ -106,7 +106,7 @@
                     <h3>TERM OF USE OF THIS WEBSITE</h3>
                     
                     <ul>
-                        <li>The information provided on www.atlanticbookpublishers.com includes, but is not limited to, the services provided by the company and does not render any advice, certifications, guarantees or warranties.</li>
+                        <li>The information provided on www.globalpublishings.com includes, but is not limited to, the services provided by the company and does not render any advice, certifications, guarantees or warranties.</li>
                         <li>The company or any of its affiliates or associates or employees shall not be in any way responsible for any loss or damage that may arise to any person from any inadvertent error in the information contained in this website.</li>
                         <li>The company and its affiliates and associates shall not be liable, at any time, for any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communications line failure, theft or destruction or unauthorized access to, alteration of, or use of information contained on the website.</li>
                         <li>You agree to defend, indemnify, and hold the company and its subsidiaries, affiliates, officers, agents, and employees, harmless from and against any claims, liabilities, damages, losses, and expenses, arising out of or in any way connected with (i) your access to or use of the website and the services therein; (ii) your violation of these Terms of Use; (iii) your violation of any third party right, including without limitation any intellectual property right, publicity, confidentiality, property or privacy right.</li>
@@ -119,14 +119,14 @@
                 
                 <div class="privacy_policy__content">
                     <h3>Email &amp; Mobile Phone Policy</h3>
-                    <p>This policy outlines the terms and conditions regarding the use of email and mobile phone contact information provided to Atlantic Book Publishers.</p>
+                    <p>This policy outlines the terms and conditions regarding the use of email and mobile phone contact information provided to Global Publishings.</p>
                 </div>
                 
                 
                 
                 <div class="privacy_policy__content">
                     <h3>Consent and Usage</h3>
-                    <p>By providing your email address and/or mobile phone number, you consent to receive communication from Atlantic Book Publishers. This includes, transitional messages, periodic updates about your service or project, updates, newsletters, and services delivery e.g. Design attachments, Project updates and Revisions update.</p>
+                    <p>By providing your email address and/or mobile phone number, you consent to receive communication from Global Publishings. This includes, transitional messages, periodic updates about your service or project, updates, newsletters, and services delivery e.g. Design attachments, Project updates and Revisions update.</p>
                 </div>
                 
                 
@@ -159,12 +159,12 @@
                 
                 <div class="privacy_policy__content">
                     <h3>Changes to Policy</h3>
-                    <p>Atlantic Book Publishers reserves the right to modify this policy at any time. Any changes will be posted on our website, and it is your responsibility to review these changes.</p>
+                    <p>Global Publishings reserves the right to modify this policy at any time. Any changes will be posted on our website, and it is your responsibility to review these changes.</p>
                 </div>
                 
                 <div class="privacy_policy__content">
                     <h3>Contact Us</h3>
-                    <p>If you have any questions or concerns regarding this policy, please contact us at <a href="mailto:info@atlanticbookpublishers.com">info@atlanticbookpublishers.com</a>.</p>
+                    <p>If you have any questions or concerns regarding this policy, please contact us at <a href="mailto:info@globalpublishings.com">info@globalpublishings.com</a>.</p>
                 </div>
 
             </div>

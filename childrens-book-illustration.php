@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <?php include "./components/head.php"?>
-<title>Childrens Book Illustrators - Atlantic Book Publishers</title>
+<title>Childrens Book Illustrators - Global Publishings</title>
 
   <body>
   <?php include "./components/header.php"?>
@@ -27,7 +27,7 @@
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -203,7 +203,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="inner__services__content">
-                    <p>Illustrations play a pivotal role in children book creation. They capture children's attention, drawing them into the world of storytelling. Atlantic Book Publishers offers professional children's book illustration services featuring a team of experienced and skilled illustrators.</p>
+                    <p>Illustrations play a pivotal role in children book creation. They capture children's attention, drawing them into the world of storytelling. Global Publishings offers professional children's book illustration services featuring a team of experienced and skilled illustrators.</p>
                 </div>
             </div>
 
@@ -243,7 +243,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
                 </div>
@@ -281,7 +281,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
@@ -408,7 +408,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 

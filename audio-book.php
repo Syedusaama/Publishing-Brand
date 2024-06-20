@@ -29,7 +29,7 @@
                             <div class="banner__btn">
                                 <ul>
                                     <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                                    <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                                    <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                                 </ul>
                             </div>
 
@@ -205,7 +205,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="inner__services__content">
-                    <p>At Atlantic Book Publishers, we collaborate with talented voice actors and audio engineers to create immersive listening experiences for a wide range of genres, including fiction, non-fiction, self-help, and more. Our library features bestsellers, classics, and niche titles, offering something for every listener. With easy access through digital platforms, our audiobooks provide convenient and enjoyable storytelling wherever you go.  </p>
+                    <p>At Global Publishings, we collaborate with talented voice actors and audio engineers to create immersive listening experiences for a wide range of genres, including fiction, non-fiction, self-help, and more. Our library features bestsellers, classics, and niche titles, offering something for every listener. With easy access through digital platforms, our audiobooks provide convenient and enjoyable storytelling wherever you go.  </p>
                 </div>
             </div>
 
@@ -250,7 +250,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
                 </div>
@@ -287,7 +287,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
@@ -428,7 +428,7 @@
                     <div class="banner__btn btn2">
                         <ul>
                             <li><a href="" data-toggle="modal" data-target="#lead_pop">Let's Get Started</a></li>
-                            <li><a href="tel:8776753363">(877) 675-3363</a></li>
+                            <li><a href="tel:15623421027">+1 562 342 1027</a></li>
                         </ul>
                     </div>
 
