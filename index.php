@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
 	<?php include "./components/head.php"?>
@@ -8,7 +7,7 @@
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6CHP3TN"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
- 
+
 	<?php include "./components/header.php"?>
 
 <!-- Banner Section Begin -->
