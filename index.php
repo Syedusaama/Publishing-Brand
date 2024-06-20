@@ -4,6 +4,11 @@
 	<?php include "./components/head.php"?>
     <title>Book Marketing and Publishing Agency | Global Publishings</title>
   <body>
+	    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6CHP3TN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ 
 	<?php include "./components/header.php"?>
 
 <!-- Banner Section Begin -->
