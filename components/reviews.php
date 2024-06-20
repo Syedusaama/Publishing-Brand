@@ -7,7 +7,7 @@
 					<div class="heading__web">
 						<h2>Voices of Satisfaction: Testimonials from our Delighted Authors</h2>
 
-						<p>Explore what our authors have to say about their experience with Atlantic Book Publishers. Read their testimonials to discover the impact our services have had on their literary journeys.</p>
+						<p>Explore what our authors have to say about their experience with Global Publishings. Read their testimonials to discover the impact our services have had on their literary journeys.</p>
 
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 							</div>
 
 							<div class="review__content">
-								<p>Atlantic Book Publishers exceeded my expectations with their publishing service. The publisher assigned to my project not only understood my vision but also introduced me to other platforms. </p>
+								<p>Global Publishings exceeded my expectations with their publishing service. The publisher assigned to my project not only understood my vision but also introduced me to other platforms. </p>
 							</div>
 
 							<div class="review_auth">
@@ -69,7 +69,7 @@
 							</div>
 
 							<div class="review__content">
-								<p>The editing and formatting services provided by Atlantic Book Publishers were top-notch. The team demonstrated professionalism and efficiency throughout the process. My manuscript was transformed into a polished work of art, ready for publication. Highly recommended!</p>
+								<p>The editing and formatting services provided by Global Publishings were top-notch. The team demonstrated professionalism and efficiency throughout the process. My manuscript was transformed into a polished work of art, ready for publication. Highly recommended!</p>
 							</div>
 
 							<div class="review_auth">
@@ -90,7 +90,7 @@
 							</div>
 
 							<div class="review__content">
-								<p>Choosing Atlantic Book Publishers for book marketing was a game-changer for me. Their strategic approach, coupled with targeted campaigns, significantly boosted the visibility of my book. I saw a noticeable increase in sales and reader engagement. Grateful for their expertise!</p>
+								<p>Choosing Global Publishings for book marketing was a game-changer for me. Their strategic approach, coupled with targeted campaigns, significantly boosted the visibility of my book. I saw a noticeable increase in sales and reader engagement. Grateful for their expertise!</p>
 							</div>
 
 							<div class="review_auth">

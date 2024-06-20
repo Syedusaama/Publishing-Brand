@@ -14,7 +14,7 @@
 			                <div class="card mb-3">
 			                  <div class="card-header" id="headingOne">
 			                    <span class="mb-0">
-			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">How does the ghostwriting process work at Atlantic Book Publishers?  
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">How does the ghostwriting process work at Global Publishings?  
 			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
 			                      </button>
 			                    </span>
@@ -28,7 +28,7 @@
 			                <div class="card mb-3">
 			                  <div class="card-header" id="headingTwo">
 			                    <span class="mb-0">
-			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">What genres do Atlantic Book Publishers specialize in for ghostwriting services?  
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">What genres do Global Publishings specialize in for ghostwriting services?  
 			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
 			                      </button>
 			                    </span>
@@ -72,7 +72,7 @@
 			                <div class="card mb-3">
 			                  <div class="card-header" id="headingTwo">
 			                    <span class="mb-0">
-			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">What sets Atlantic Book Publishers' editing and formatting services apart?
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">What sets Global Publishings' editing and formatting services apart?
 			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
 			                      </button>
 			                    </span>
@@ -87,7 +87,7 @@
 			                <div class="card mb-3">
 			                  <div class="card-header" id="headingTwo">
 			                    <span class="mb-0">
-			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">How does the book publishing process work with Atlantic Book Publishers?
+			                      <button class="btn btn-link text-left w-100 collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">How does the book publishing process work with Global Publishings?
 			                      <i class="fa fa-angle-right float-right" aria-hidden="true"></i>
 			                      </button>
 			                    </span>
@@ -170,13 +170,13 @@
 			<div class="col-sm-5">
 				<div class="footer__det">
 					<div class="footer__logo">
-						<a href="/"><img srcset="assets/images/logo.png" class="img-responsive" alt="Atlantic Book Publishers"></a>
+						<a href="/"><img srcset="assets/images/logo.png" class="img-responsive" alt="Global Publishings"></a>
 					</div>
 
 					<div class="footer__content__sec">
 						<p>We offer all-inclusive services to cater to author needs with a 360-degree approach. Our motto is to ensure a stress-free ground for authors. With our all-in-one solution, you can just overhaul the process and leave the rest to us.</p>
                         
-                        <p>This website is under the ownership of Atlantic Book Writers, operating as Atlantic Book Publishers.</p>
+                        <p>This website is under the ownership of Global Book Writers, operating as Global Publishings.</p>
                         
                         <div class="social__media__icon">
                             <ul>
@@ -273,7 +273,7 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="copy__text">
-						<p>© Copyright 2024 | Atlantic Book Publishers | All right reserved.</p>
+						<p>© Copyright 2024 | Global Publishings | All right reserved.</p>
 					</div>
 				</div>
 				<div class="col-sm-6">

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 	<?php include "./components/head.php"?>
-    <title>Book Marketing and Publishing Agency | Atlantic Book Publishers</title>
+    <title>Book Marketing and Publishing Agency | Global Publishings</title>
   <body>
 	<?php include "./components/header.php"?>
 
@@ -23,7 +23,7 @@
 			    		<div class="col-sm-12">
 			    			<div class="banner__content">
 			    				<span>Your Journey Starts Here: Crafting, Publishing, and Marketing Your Masterpiece</span>
-				    			<h1>Undergo The Full Spectrum Of <br> Smooth Publishing Possibilities At <br> Atlantic Book Publishers.  </h1>
+				    			<h1>Undergo The Full Spectrum Of <br> Smooth Publishing Possibilities At <br> Global Publishings.  </h1>
 
 				    			<p>Let our devoted team guide you through every step, ensuring your narrative not only resonates with readers but also receives the attention it deserves in the competitive world of publishing. </p>
 
@@ -57,7 +57,7 @@
 				</div>
 				<div class="col-sm-6">
 					<div class="about__us__hme">
-						<h2>Atlantic Book Publishers are poised to make your publishing step unprecedentedly smooth</h2>
+						<h2>Global Publishings are poised to make your publishing step unprecedentedly smooth</h2>
 
                         <p>It's time to showcase your extraordinary success story that defied all odds! Hire a publisher now to publish your voice and share your narrative with the world. Our commitment to incorporating your feedback ensures a collaborative process that results in manuscripts poised to influence bibliophiles, leaving them anticipating more literary gems from your pen.  <br> Besides that, we adeptly finalize your manuscripts, giving careful consideration to your concepts. Along every step of the publishing journey, we stand alongside you, approaching your project with the same dedication as if it were our own.</p>
                             
@@ -191,7 +191,7 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="heading__web">
-						<h2>Dive Into A Realm Of Boundless Creativity <br>  With Atlantic Book Publishers.</h2>
+						<h2>Dive Into A Realm Of Boundless Creativity <br>  With Global Publishings.</h2>
 
 						<p>Our commitment extends beyond writing – explore a myriad of imaginative services, ensuring your path from idea to publication is <br> not just seamless but truly extraordinary.</p>
 
@@ -500,6 +500,15 @@
 
 <!-- Services Section End -->
 
+
+<!-- Portfolio Section Start -->
+
+<?php include "./components/portfolio.php"?>
+
+
+<!-- Portfolio Section End -->
+
+
 <!-- Counter Section Begin -->
 	
 	<section class="counter__sec__main padding__90">
@@ -543,7 +552,7 @@
 
 
 
-						<p>Let your talent outshine with Atlantic Book Publishers, where our comprehensive suite of services is crafted to transform your dream into a reality. From concept to publication, we guide you through each step of the creative journey, ensuring your narrative stands out in the vast realm of literature and get published on platforms needed to uplift your author journey.</p>
+						<p>Let your talent outshine with Global Publishings, where our comprehensive suite of services is crafted to transform your dream into a reality. From concept to publication, we guide you through each step of the creative journey, ensuring your narrative stands out in the vast realm of literature and get published on platforms needed to uplift your author journey.</p>
 
 						<h6>What Makes Your Book The Best-Selling Book</h6>
 
