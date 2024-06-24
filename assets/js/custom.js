@@ -1,672 +1,298 @@
-function order_now_value(objButton, packid=1){
-    x = objButton.name;
-    $('#packages').val($('#packages').find('[pack="'+packid+'"]').attr('value'));
-    try{
-        document.getElementById('lead_area_popup1').value = x;
-        document.getElementById('lead_text').innerHTML = x;
-    }catch(ex){}
-  }
+$('.services_slider').slick({
+  dots: false,
+  infinite: false,
+  speed: 200,
+  arrows: false,
+  centermode:true,
+  autoplay: true,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 1370,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: false
+      }
+    },
+    {
+      breakpoint: 1100,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1
+      }
+    },
+    {
+      breakpoint: 800,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1
+    }
 
-    
-  $('.platform_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 5,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1600,
-        settings: {
-          slidesToShow: 7,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1400,
-        settings: {
-          slidesToShow: 5,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 450,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  $('.book_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 3,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1250,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 450,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  $('.review_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1250,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 450,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  $('.services_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 3,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1100,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 450,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  $('.become__book_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:false,
-    autoplay: true,
-    slidesToShow: 6,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 5,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1100,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 450,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  $('.services_logo_slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 4,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1100,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 800,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 650,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 500,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
-  });
-  
-  
-  const stats = document.querySelectorAll(".counter");
-  
-  stats.forEach(stat => {
-    // pattern used to seperate input number from html into an array of numbers and non numbers. EX $65.3M -> ["$65.3M", "$", "65", ".", "3", "M"]
-    const patt = /(\D+)?(\d+)(\D+)?(\d+)?(\D+)?/;
-    const time = 1000;
-    let result = [...patt.exec(stat.textContent)];
-    let fresh = true;
-    let ticks;
-  
-    // Remove first full match from result array (we dont need the full match, just the individual match groups).
-    result.shift();
-    // Remove undefined values from result array where they didnt have a match in one of the optional regex groups
-    result = result.filter(res => res != null);
-  
-    while (stat.firstChild) {
-      stat.removeChild(stat.firstChild);
+    },
+    {
+      breakpoint: 600,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
     }
-  
-    for (let res of result) {
-      if (isNaN(res)) {
-        stat.insertAdjacentHTML("beforeend", `<span>${res}</span>`);
-      } else {
-        for (let i = 0; i < res.length; i++) {
-          stat.insertAdjacentHTML(
-            "beforeend",
-            `<span data-value="${res[i]}">
-              <span>&ndash;</span>
-              ${Array(parseInt(res[i]) + 1)
-                .join(0)
-                .split(0)
-                .map(
-                  (x, j) => `
-                <span>${j}</span>
-              `
-                )
-                .join("")}
-            </span>`
-          );
-        }
-      }
+
+    },
+    {
+      breakpoint: 450,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
     }
-  
-    ticks = [...stat.querySelectorAll("span[data-value]")];
-  
-    let activate = () => {
-      let top = stat.getBoundingClientRect().top;
-      let offset = window.innerHeight * 0.8;
-  
-      setTimeout(() => {
-        fresh = false;
-      }, time);
-  
-      if (top < offset) {
-        setTimeout(() => {
-          for (let tick of ticks) {
-            let dist = parseInt(tick.getAttribute("data-value")) + 1;
-            tick.style.transform = `translateY(-${dist * 100}%)`;
-          }
-        }, fresh ? time : 0);
-        window.removeEventListener("scroll", activate);
+
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+$('.book_slider').slick({
+  dots: false,
+  infinite: false,
+  speed: 200,
+  arrows: false,
+  centermode:true,
+  autoplay: true,
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  responsive: [
+    {
+      breakpoint: 1370,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: false
       }
-    };
-    window.addEventListener("scroll", activate);
-    activate();
+    },
+    {
+      breakpoint: 1250,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1
+      }
+    },
+    {
+      breakpoint: 800,
+      settings: {
+        slidesToShow: 4,
+        slidesToScroll: 1
+    }
+
+    },
+    {
+      breakpoint: 500,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1
+    }
+
+    },
+    {
+      breakpoint: 450,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 1
+    }
+
+    }
+    // You can unslick at a given breakpoint now by adding:
+    // settings: "unslick"
+    // instead of a settings object
+  ]
+});
+// --------------------------------------------------------------
+
+$(document).ready(function() {
+  switchDiv();
+
+  $("li:first-child").addClass("first");
+  $("li:last-child").addClass("last");
+
+  $('[href="#"]').attr("href", "javascript:;");
+
+  $(".menu-Bar").click(function() {
+      $(this).toggleClass("open");
+      $(".menuWrap").toggleClass("open");
+      $("body").toggleClass("ovr-hiddn");
   });
-  
-  $('.banner__services__slider').slick({
-    dots: false,
-    infinite: false,
-    speed: 200,
-    arrows: false,
-    centermode:true,
-    autoplay: true,
-    slidesToShow: 6,
-    slidesToScroll: 1,
-    responsive: [
-      {
-        breakpoint: 1370,
-        settings: {
-          slidesToShow: 5,
-          slidesToScroll: 1,
-          infinite: true,
-          dots: false
-        }
-      },
-      {
-        breakpoint: 1100,
-        settings: {
-          slidesToShow: 5,
-          slidesToScroll: 1
-        }
-      },
-      {
-        breakpoint: 600,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1
-      }
-  
-      },
-      {
-        breakpoint: 400,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1
-      }
-  
-      }
-      // You can unslick at a given breakpoint now by adding:
-      // settings: "unslick"
-      // instead of a settings object
-    ]
+
+  $(".loginUp").click(function() {
+      $(".LoginPopup").fadeIn();
+      $(".overlay").fadeIn();
   });
-  
-  
-  (function ($) {
-    "use strict";
-    let device_width = window.innerWidth;
-    $.exists = function (selector) {
-      return $(selector).length > 0;
-    };
-  
-    gsap.registerPlugin(ScrollTrigger, ScrollSmoother, ScrollToPlugin);
-  
-    var rtsJs = {
-      m: function (e) {
-        rtsJs.d();
-        rtsJs.methods();
-      },
-      d: function (e) {
-        (this._window = $(window)),
-          (this._document = $(document)),
-          (this._body = $("body")),
-          (this._html = $("html"));
-      },
-      methods: function (e) {
-        rtsJs.gsapAnimationImageScale();
-      },
-  
-      gsapAnimationImageScale: function (e) {
-        $(document).ready(function () {
-          let growActive = document.getElementsByClassName("grow");
-          if (growActive.length) {
-            const growTl = gsap.timeline({
-              scrollTrigger: {
-                trigger: ".grow",
-                scrub: 1,
-                start: "top center",
-                end: "+=1000",
-                ease: "power1.out",
-              },
-            });
-            growTl.to(".grow", {
-              duration: 1,
-              scale: 1,
-            });
-          }
-        });
-      },
-    };
-  
-    rtsJs.m();
-  })(jQuery, window);
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  $('.mobile-nav-btn').click(function() {
-  
-      $('.mobile-nav-btn, .mobile-nav, .app-container').toggleClass('active');
-  
+
+  $(".signUp").click(function() {
+      $(".signUpPop").fadeIn();
+      $(".overlay").fadeIn();
   });
-  
-  
-  
-  
-  
-  $('.firstlevel li a').click(function() {
-  
-      if ($(this).hasClass('active')) {
-  
-          $(this).removeClass('active');
-  
-          $(this).siblings('ul').slideUp();
-  
-      } else {
-  
-          $('.firstlevel li a').removeClass('active');
-  
-          $(this).addClass('active');
-  
-          $('.dropdown').slideUp();
-  
-          $(this).siblings('ul').slideDown();
-  
-      }
-  
+
+  $(".closePop,.overlay").click(function() {
+      $(".popupMain").fadeOut();
+      $(".overlay").fadeOut();
   });
-  
-  
-  
-  $('.mainnav > li > a').click(function() {
-  
-      if ($(this).hasClass('active')) {
-  
-          $(this).removeClass('active');
-  
-          $(this).parents('li').children('.firstlevel').slideUp();
-  
-      } else {
-  
-          $(this).addClass('active');
-  
-          $(this).parents('li').children('.firstlevel').slideDown();
-  
-          $(this).parents('li').siblings('li').children('a').removeClass('active');
-  
-          $(this).parents('li').siblings('li').children('.firstlevel').slideUp();
-  
-      }
-  
+
+  $(".menu .menu-item-has-children").addClass("dropdown-nav ");
+  $(".menu .menu-item-has-children ul.sub-menu").addClass("dropdown");
+
+  /* Tabbing Function */
+  $("[data-targetit]").on("click", function(e) {
+      $(this).addClass("active");
+      $(this)
+          .siblings()
+          .removeClass("active");
+      var target = $(this).data("targetit");
+      $("." + target)
+          .siblings('[class^="box-"]')
+          .hide();
+      $("." + target).fadeIn();
+      $(".tabViewList").slick("setPosition", 0);
   });
-  
-  
-  
-  // WOW ANIMATION
-  
-    new WOW().init();
-  
-  // WOW ANIMATION
-  
-  
-  
-  
-  
-  
-   // intel Tel Input
-  let ip; 
-  let ip_value;
-   $("#phone-country,#phone-coun,#phone-order").intlTelInput({
-       
-        allowDropdown: false,
-        // autoHideDialCode: false,
-        // autoPlaceholder: "off",
-        // dropdownContainer: "body",
-        // excludeCountries: ["us"],
-        // formatOnDisplay: false,
-      geoIpLookup: function(callback) {
-              $.get('https://ipinfo.io', function() {}, "jsonp").always(function(resp) {
-                var countryCode = (resp && resp.country) ? resp.country : "";
-                callback(countryCode);
-                ip=resp.ip;
-              
-                
-              });
-            },
-         initialCountry: "auto",
-         nationalMode: true,
-         separateDialCode: true,
-        // onlyCountries: ['us', 'gb', 'ch', 'ca', 'do'],
-        // placeholderNumberType: "MOBILE",
-        // preferredCountries: ['cn', 'jp'],
-       // utilsScript: "<?php echo $basesurl;?>js/utils.js"
+
+  // Accordian
+  $(".accordian h4").click(function() {
+      $(".accordian li").removeClass("active");
+      $(this)
+          .parent("li")
+          .addClass("active");
+      $(".accordian li div").slideUp();
+      $(this)
+          .parent("li")
+          .find("div")
+          .slideDown();
+  });
+
+  $("li.dropdown-nav").hover(function() {
+      $(this)
+          .children("ul")
+          .stop(true, false, true)
+          .slideToggle(300);
+  });
+
+  $(".searchBtn").click(function() {
+      $(".searchWrap").addClass("active");
+      $(".overlay").fadeIn("active");
+      $(".searchWrap input").focus();
+      $(".searchWrap input").focusout(function(e) {
+          $(this)
+              .parents()
+              .removeClass("active");
+          $(".overlay").fadeOut("active");
+          $("body").removeClass("ovr-hiddn");
       });
-  
-  setTimeout(function(){
-      $('input[name="pc"]').val($('.selected-dial-code').text());
-      $('input[name="cip"]').val(ip);
-      $('input[name="ctry"]').val( $('.country-list .country.active .country-name').text());
-  }, 3000);
-  
-  
-  $('body').delegate('.country','click',function(){
-  $('input[name="pc"]').val($(this).find('.dial-code').text());
-  $('input[name="cip"]').val(ip);
-  $('input[name="ctry"]').val($(this).closest("form").find('.country-list .country.active .country-name').text());
-  
-  /*var oldString2=$('.selected-flag').attr('title').toUpperCase();
-    var newString12 = oldString2.split(':',1)[0];
-                 $('input[name="ctry"]').val(newString12);*/
-   });
-  
-  
-  
-   if($(window).innerWidth() <= 751) {
-    $('.portfolio_slid').slick({
-         dots: true,
-         infinite: true,
-         autoplay:true,
-         speed: 300,
-         arrows:false,
-         slidesToShow: 1,
-         adaptiveHeight: true
+  });
+
+  $(".tesimonial-slider").slick({
+      dots: true,
+      infinite: true,
+      speed: 300,
+      slidesToShow: 1,
+      arrows: false,
+      fade: true,
+          // prevArrow: $('.prev'),
+          // nextArrow: $('.next')
+  });
+
+  //     Slider For
+  // $('.slider-for').slick({
+  //     slidesToShow: 1,
+  //     slidesToScroll: 1,
+  //     dots: false,
+  //     arrows: false,
+  //     fade: true,
+  //     asNavFor: '.slider-nav'
+  // });
+  // $('.slider-nav').slick({
+  //     slidesToShow: 4,
+  //     slidesToScroll: 1,
+  //     asNavFor: '.slider-for',
+  //     dots: false,
+  //     focusOnSelect: true
+  // });
+
+  /* Top Scroll */
+  // $('body').on('click', '.scrolldown-fl', function() {
+  //     goToScroll('awardSec');
+  // });
+});
+
+// $(window).on("scroll touchmove", function() {
+//     $("header").toggleClass("stickyOpen", $(document).scrollTop() > 200);
+// });
+
+$(window).on("load", function() {
+  var currentUrl = window.location.href.substr(
+      window.location.href.lastIndexOf("/") + 1
+  );
+  $("ul.menu li a").each(function() {
+      var hrefVal = $(this).attr("href");
+      if (hrefVal == currentUrl) {
+          $(this).removeClass("active");
+          $(this)
+              .closest("li")
+              .addClass("active");
+          $("ul.menu li.first").removeClass("active");
+      }
+  });
+});
+
+/* RESPONSIVE JS */
+if ($(window).width() < 824) {}
+
+function switchDiv() {
+  var $window = $(window).outerWidth();
+  if ($window <= 768) {
+      $(".topAppendTxt").each(function() {
+          var getdtd = $(this)
+              .find(".cloneDiv")
+              .clone(true);
+          $(this)
+              .find(".cloneDiv")
+              .remove();
+          $(this).append(getdtd);
       });
-   }
-  
-  //*****************************
-  
-  // Mobile Navigation
-  
-  //*****************************
-  function toggleSidebar() {
-    const sidebar = document.getElementById('sidebar');
-    if (sidebar.style.width === '0px' || sidebar.style.width === '') {
-        sidebar.style.width = '250px';
-    } else {
-        sidebar.style.width = '0px';
-    }
+  }
 }
+
+function goToScroll(e) {
+  $("html, body").animate({
+          scrollTop: $("." + e).offset().top
+      },
+      1000
+  );
+}
+var forEach = function (array, callback, scope) {
+  for (var i = 0; i < array.length; i++) {
+    callback.call(scope, i, array[i]);
+  }
+};
+window.onload = function(){
+  var max = -219.99078369140625;
+  forEach(document.querySelectorAll('.progress'), function (index, value) {
+  percent = value.getAttribute('data-progress');
+    value.querySelector('.fill').setAttribute('style', 'stroke-dashoffset: ' + ((100 - percent) / 100) * max);
+    value.querySelector('.value').innerHTML = percent + '%';
+  });
+}
+
+$(".animated-progress span").each(function () {
+  $(this).animate(
+    {
+      width: $(this).attr("data-progress") + "%",
+    },
+    1000
+  );
+  $(this).text($(this).attr("data-progress") + "%");
+});  
+
+//   tabs
 function openTab(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
@@ -682,3 +308,14 @@ function openTab(evt, cityName) {
 }
 
 document.getElementById("defaultOpen").click();
+
+
+// --------------------------------------------------------------
+function toggleSidebar() {
+  const sidebar = document.getElementById('sidebar');
+  if (sidebar.style.width === '0px' || sidebar.style.width === '') {
+      sidebar.style.width = '250px';
+  } else {
+      sidebar.style.width = '0px';
+  }
+}

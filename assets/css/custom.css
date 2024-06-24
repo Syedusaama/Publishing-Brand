@@ -3730,6 +3730,22 @@ span.auth__des {
 }
 
 @media (max-width: 992px) {
+    .tabnav-projects {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .tabnav-projects a {
+        font-size: 12px;
+        padding: 10px 18px;
+    }
+    .tabnav-projects>li {
+        padding: 10px 6px;
+    }
+    .gallery img {
+        width: 130px;;
+        padding: 10px;
+        margin: 0 auto;
+    }
     .rating__review img{
         width: auto;
     }
