@@ -667,13 +667,13 @@ nav {
     padding: 0px 6px;
 }
 .tabnav-projects>li>a:hover{
-    background-color: #FD5605;
+    background: transparent linear-gradient(98deg, var(--primary_color) 0%, var(--secondary_color) 100%) 0% 0% no-repeat padding-box;
     color: #fff;
 }
 
 .tabnav-projects a {
-    color: #FD5605;
-    border: 1px solid #FD5605;
+    color: #005d56;
+    border: 1px solid #005d56;
     border-radius: 30px;
     font-size: 14px;
     font-weight: 500;
@@ -682,13 +682,11 @@ nav {
 }
 
 .tabnav-projects .active a {
-    background-color: #FD5605;
     text-align: center;
     transition: 0.5s;
-    color: #fff;
-    box-shadow:  1px 1px 15px 0px #fd5605;
-    background: #FD5605;
     text-decoration: none;
+    background: transparent linear-gradient(98deg, var(--primary_color) 0%, var(--secondary_color) 100%) 0% 0% no-repeat padding-box;
+    color: var(--white);
 }
 .gallery img{
     width: 270px;
