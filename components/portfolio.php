@@ -74,7 +74,7 @@
 
 <!--  -->
 <section class="portfolio-tabs">
-    <div class="container-fluid" >
+    <div class="container" >
         <div class="row">
     <div class="text-center">
         <h2 class="title-heading">Check Out Our Most Recent Designs</h2>
@@ -94,18 +94,18 @@
             <li>
                 <div class="portfolio-items-box">
                     <div class="gallery">
-                        <img src="./assets/images/portfolio/branding/b1.png" alt="a forest after an apocalypse">
-                        <img src="./assets/images/portfolio/v2.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/web/w2.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/branding/b2.png" alt="a waterfall and many rocks">
-                        <img src="./assets/images/portfolio/l2.png" alt="sime pink flowers">
-                        <img src="./assets/images/portfolio/social-media/s2.png" alt="a cool landscape">
-                        <img src="./assets/images/portfolio/animated/sc7.webp" data-video="assets/images/portfolio/animated/video7.mp4" alt="Video 7">
-                        <img src="./assets/images/portfolio/web/w1.png" alt="a great view of the sea above the mountain">
-                        <img src="./assets/images/portfolio/l1.png" alt="a house on a mountain">
-                        <img src="./assets/images/portfolio/social-media/s1.png" alt="a waterfall, a lot of tree and a great view from the sky">
-                        <img src="./assets/images/portfolio/l3.png" alt="big rocks with some trees">
-                        <img src="./assets/images/portfolio/animated/sc12.webp" data-video="assets/images/portfolio/animated/video12.mp4" alt="Video 12">
+                      <div class="row">
+                        <img src="./assets/images/portfolio/front.jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(10).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(2).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(3).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(4).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(5).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(6).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(7).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(8).jpg" alt="a forest after an apocalypse">
+                        <img src="./assets/images/portfolio/front(9).jpg" alt="a forest after an apocalypse">
+                        </div>
                       </div>
                 </div>
             </li>
