@@ -33,10 +33,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- Start of amazonpublicationhouse Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=c4983d31-6236-4ec7-9b84-c55c5ce4174f"> </script>
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=c4983d31-6236-4ec7-9b84-c55c5ce4174f"> </script> -->
 <!-- End of amazonpublicationhouse Zendesk Widget script -->
 
-<script>
+<!-- <script>
          zE(function() {
             $zopim(function() {
               $zopim.livechat.setOnUnreadMsgs(unread);
@@ -48,6 +48,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 }
             });
         });
-</script>
+</script> -->
 
 </head>

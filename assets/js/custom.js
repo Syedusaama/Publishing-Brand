@@ -6,7 +6,7 @@ function order_now_value(objButton, packid=1){
         document.getElementById('lead_text').innerHTML = x;
     }catch(ex){}
   }
-    
+
     
   $('.platform_slider').slick({
     dots: false,
@@ -659,3 +659,11 @@ function order_now_value(objButton, packid=1){
   // Mobile Navigation
   
   //*****************************
+  function toggleSidebar() {
+    const sidebar = document.getElementById('sidebar');
+    if (sidebar.style.width === '0px' || sidebar.style.width === '') {
+        sidebar.style.width = '250px';
+    } else {
+        sidebar.style.width = '0px';
+    }
+}
