@@ -98,8 +98,8 @@
 		<div class="carousel-inner">
 		  <div class="carousel-item active">
 		<div class="row align-items-center">
-				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-01.png" alt="First slide">
+				<div class="col-md-6 ">
+					<img class="d-block review-img" src="assets/images/review-left-img-01.png" alt="First slide">
 				</div>
 				<div class="col-md-6">
 					<div class="review__sec__item">
@@ -126,7 +126,7 @@
 		  <div class="carousel-item">
 			<div class="row align-items-center">
 				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-02.png" alt="First slide">
+					<img class="d-block review-img" src="assets/images/review-left-img-02.png" alt="First slide">
 				</div>
 				<div class="col-md-6">
 					<div class="review__sec__item">
@@ -139,7 +139,7 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-76.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
 								<span class="auth__name">Ken Joslin</span>
@@ -153,7 +153,7 @@
 		  <div class="carousel-item">
 			<div class="row align-items-center">
 				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-03.png" alt="First slide">
+					<img class="d-block review-img" src="assets/images/review-left-img-03.png" alt="First slide">
 				</div>
 				<div class="col-md-6">
 					<div class="review__sec__item">
@@ -166,7 +166,7 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-39.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
 								<span class="auth__name">JR Schaur</span>
@@ -187,9 +187,6 @@
 		  <span class="sr-only">Next</span>
 		</a> -->
 	  </div>
-
-
-
 		</div>
 
 		<div class="review-vector1">
@@ -198,102 +195,3 @@
 	</section>
 
 <!-- Review Section End -->
-
-
-<section>
-	<div class="container">
-	<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-		<div class="carousel-inner">
-		  <div class="carousel-item active">
-		<div class="row align-items-center">
-				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-01.png" alt="First slide">
-				</div>
-				<div class="col-md-6">
-					<div class="review__sec__item">
-						<div class="rating__review">
-							<img src="assets/images/star-rating.svg" class="img-responsive" alt="Rating">
-						</div>
-						<div class="review__content">
-							<p>Global Publishings exceeded my expectations with their publishing service. The publisher assigned to my project not only understood my vision but also introduced me to other platforms. </p>
-						</div>
-		
-						<div class="review_auth">
-							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
-							</div>
-							<div class="review__auth">
-								<span class="auth__name">Eva James </span>
-								<span class="auth__des">Author</span>
-							</div>
-						</div>
-					</div>
-				</div>
-		</div>
-		  </div>
-		  <div class="carousel-item">
-			<div class="row align-items-center">
-				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-01.png" alt="First slide">
-				</div>
-				<div class="col-md-6">
-					<div class="review__sec__item">
-						<div class="rating__review">
-							<img src="assets/images/star-rating.svg" class="img-responsive" alt="Rating">
-						</div>
-						<div class="review__content">
-							<p>Global Publishings exceeded my expectations with their publishing service. The publisher assigned to my project not only understood my vision but also introduced me to other platforms. </p>
-						</div>
-		
-						<div class="review_auth">
-							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
-							</div>
-							<div class="review__auth">
-								<span class="auth__name">Eva James </span>
-								<span class="auth__des">Author</span>
-							</div>
-						</div>
-					</div>
-				</div>
-		</div>
-		  </div>
-		  <div class="carousel-item">
-			<div class="row align-items-center">
-				<div class="col-md-6">
-					<img class="d-block w-100" src="assets/images/review-left-img-01.png" alt="First slide">
-				</div>
-				<div class="col-md-6">
-					<div class="review__sec__item">
-						<div class="rating__review">
-							<img src="assets/images/star-rating.svg" class="img-responsive" alt="Rating">
-						</div>
-						<div class="review__content">
-							<p>Global Publishings exceeded my expectations with their publishing service. The publisher assigned to my project not only understood my vision but also introduced me to other platforms. </p>
-						</div>
-		
-						<div class="review_auth">
-							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
-							</div>
-							<div class="review__auth">
-								<span class="auth__name">Eva James </span>
-								<span class="auth__des">Author</span>
-							</div>
-						</div>
-					</div>
-				</div>
-		</div>
-		  </div>
-		</div>
-		<!-- <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-		  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-		  <span class="sr-only">Previous</span>
-		</a>
-		<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-		  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-		  <span class="sr-only">Next</span>
-		</a> -->
-	  </div>
-	</div>
-	</section>
