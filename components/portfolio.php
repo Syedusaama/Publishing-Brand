@@ -86,16 +86,21 @@
                       <div class="portfolio-items-box">
                           <div class="gallery">
                           <div class="row">
-                              <img src="./assets/images/portfolio/front.jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(10).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(2).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(3).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(4).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(5).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(6).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(7).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(8).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(9).jpg" alt="a forest after an apocalypse">
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/non-fiction/nf1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/non-fiction/nf2.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/non-fiction/nf3.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/non-fiction/nf4.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/non-fiction/nf5.jpg" alt="a forest after an apocalypse">
+                                </div>
                               </div>
                             </div>
                       </div>
@@ -108,16 +113,24 @@
                       <div class="portfolio-items-box">
                           <div class="gallery">
                           <div class="row">
-                              <img src="./assets/images/portfolio/front.jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(10).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(2).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(3).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(4).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(5).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(6).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(7).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(8).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(9).jpg" alt="a forest after an apocalypse">
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b2.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b3.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b4.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b5.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b6.jpg" alt="a forest after an apocalypse">
+                                </div>
                               </div>
                             </div>
                       </div>
@@ -131,16 +144,24 @@
                       <div class="portfolio-items-box">
                           <div class="gallery">
                           <div class="row">
-                              <img src="./assets/images/portfolio/front.jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(10).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(2).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(3).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(4).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(5).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(6).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(7).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(8).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(9).jpg" alt="a forest after an apocalypse">
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h2.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h3.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h4.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h5.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h6.jpg" alt="a forest after an apocalypse">
+                                </div>
                               </div>
                             </div>
                       </div>
