@@ -23,28 +23,28 @@
                       <div class="portfolio-items-box">
                           <div class="gallery">
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/children/c1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/fiction/f1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/health/h1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/horror/h1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/memoir/m1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/non-fiction/nf1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 img-hover-zoom ">
                                     <img src="./assets/images/portfolio/romance/r1.jpg" alt="a forest after an apocalypse">
                                 </div>
                               </div>
@@ -267,7 +267,7 @@
                                 <div class="col-md-3">
                                     <img src="./assets/images/portfolio/horror/h2.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 ">
                                     <img src="./assets/images/portfolio/horror/h3.jpg" alt="a forest after an apocalypse">
                                 </div>
                                 <div class="col-md-3">
