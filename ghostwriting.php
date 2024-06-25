@@ -466,10 +466,10 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-37.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-58.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Wanda F. Wells</span>
+								<span class="auth__name">Amara Blake</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -493,10 +493,10 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-76.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-24.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Ken Joslin</span>
+								<span class="auth__name">Teena Lyons</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -520,10 +520,10 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-39.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-56.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">JR Schaur</span>
+								<span class="auth__name">Alessandra</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
