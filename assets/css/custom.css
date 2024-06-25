@@ -582,6 +582,7 @@ nav {
 /*Header Section End*/
 
 /* ----------------Portfolio section------------ */
+
 .img-hover-zoom {
      /* [1.1] Set it as per your need */
     overflow: hidden;
@@ -3756,6 +3757,18 @@ span.auth__des {
 }
 
 @media (max-width: 992px) {
+    .img-hover-zoom {
+        overflow: visible;
+        cursor: pointer;
+        padding: 0px;
+        margin: 0px;
+    }
+    .portfolio-tabs {
+        padding-top: 100px;
+        width: auto;
+        margin: 0 auto;
+    }
+    
     .tabnav-projects {
         padding-top: 20px;
         padding-bottom: 20px;
@@ -3768,9 +3781,10 @@ span.auth__des {
         padding: 10px 6px;
     }
     .gallery img {
-        width: 130px;;
-        padding: 10px;
+        width: 90px;
+        padding: 5px;
         margin: 0 auto;
+        border-radius: 12px;
     }
     .rating__review img{
         width: auto;
