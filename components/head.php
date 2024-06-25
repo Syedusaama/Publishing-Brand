@@ -18,6 +18,7 @@
     <meta name="twitter:description" content="Need help to write a good book? Hire a writer for a book from Global Publishings. You can get professional book formatting and book publishing services.">
     <meta name="twitter:url" content="https://www.globalpublishings.com/assets/images/logo.png">
     <meta name="twitter:card" content="summary">
+    
 	<script src="assets/js/rocket.js" defer></script>
 	<link href="assets/css/all.css?s" rel="stylesheet">
 	<link href="assets/css/custom.css" rel="stylesheet">

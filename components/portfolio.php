@@ -23,16 +23,22 @@
                       <div class="portfolio-items-box">
                           <div class="gallery">
                             <div class="row">
-                              <img src="./assets/images/portfolio/front.jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(10).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(2).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(3).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(4).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(5).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(6).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(7).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(8).jpg" alt="a forest after an apocalypse">
-                              <img src="./assets/images/portfolio/front(9).jpg" alt="a forest after an apocalypse">
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/children/c1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/fiction/f1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="./assets/images/portfolio/health/h1.jpg" alt="a forest after an apocalypse">
+                                </div>
+                              <!-- <img src="./assets/images/portfolio/horror/h1.jpg" alt="a forest after an apocalypse">
+                              <img src="./assets/images/portfolio/memoir/m1.jpg" alt="a forest after an apocalypse">
+                              <img src="./assets/images/portfolio/non-fiction/nf1.jpg" alt="a forest after an apocalypse">
+                              <img src="./assets/images/portfolio/romance/r1.jpg" alt="a forest after an apocalypse"> -->
                               </div>
                           </div>
                       </div>

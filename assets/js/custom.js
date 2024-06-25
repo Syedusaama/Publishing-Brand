@@ -319,3 +319,4 @@ function toggleSidebar() {
       sidebar.style.width = '0px';
   }
 }
+
