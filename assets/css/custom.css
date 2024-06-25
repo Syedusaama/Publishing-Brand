@@ -582,6 +582,13 @@ nav {
 /*Header Section End*/
 
 /* ----------------Portfolio section------------ */
+[class^="box-"] {
+    display: none;
+}
+
+[class^="box-"].showfirst {
+    display: block;
+}
 .portfolio-tabs{
     padding-top: 100px;
     width: 1250px;
