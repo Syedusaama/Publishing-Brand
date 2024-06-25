@@ -22,7 +22,7 @@
                   <li>
                       <div class="portfolio-items-box">
                           <div class="gallery">
-                            <div class="row">
+                            <!-- <div class="row">
                                 <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
                                 </div>
@@ -47,7 +47,49 @@
                                 <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/romance/r1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                              </div>
+                            </div> -->
+                            <div class="row">
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/biography/b1.jpg" data-lightbox="portfolio" data-title="Biography 1">
+                                            <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/children/c1.jpg" data-lightbox="portfolio" data-title="Children 1">
+                                            <img src="./assets/images/portfolio/children/c1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/fiction/f1.jpg" data-lightbox="portfolio" data-title="Fiction 1">
+                                            <img src="./assets/images/portfolio/fiction/f1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/health/h1.jpg" data-lightbox="portfolio" data-title="Health 1">
+                                            <img src="./assets/images/portfolio/health/h1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/horror/h1.jpg" data-lightbox="portfolio" data-title="Horror 1">
+                                            <img src="./assets/images/portfolio/horror/h1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/memoir/m1.jpg" data-lightbox="portfolio" data-title="Memoir 1">
+                                            <img src="./assets/images/portfolio/memoir/m1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/non-fiction/nf1.jpg" data-lightbox="portfolio" data-title="Non Fiction 1">
+                                            <img src="./assets/images/portfolio/non-fiction/nf1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col img-hover-zoom">
+                                        <a href="./assets/images/portfolio/romance/r1.jpg" data-lightbox="portfolio" data-title="Romance 1">
+                                            <img src="./assets/images/portfolio/romance/r1.jpg" alt="a forest after an apocalypse">
+                                        </a>
+                                    </div>
+                                </div>
                           </div>
                       </div>
                   </li>
@@ -283,4 +325,9 @@
       </div>
   </div>
 </section>
-<!--  -->
+    <!-- Popup Container -->
+    <div id="popupContainer" class="popup-container" onclick="closePopup()">
+        <img id="popupImage" class="popup-image">
+    </div>
+
+ 

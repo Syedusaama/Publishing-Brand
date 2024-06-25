@@ -386,7 +386,7 @@
 <!-- Order POPUP Section End -->
 
 
-
+<script src="assets/js/script.js"></script>
 <script src="assets/js/all.js"></script>
 <script async type="rocketlazyloadscript" data-rocket-src="assets/js/smoothscroll-varticle.js"></script>
 <script async type="rocketlazyloadscript" data-rocket-src="assets/js/gsap.js"></script>

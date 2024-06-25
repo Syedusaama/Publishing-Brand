@@ -22,6 +22,9 @@
 	<script src="assets/js/rocket.js" defer></script>
 	<link href="assets/css/all.css?s" rel="stylesheet">
 	<link href="assets/css/custom.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
+
 
 
     <!-- Google Tag Manager -->

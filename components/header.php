@@ -116,25 +116,25 @@
 					<div class="logo"></div>
 					<ul class="nav-links">
                         <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/about-us.html">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/about-us.php">About Us</a></li>
                         <li class="nav-item dropdown">
-                          <a class="nav-link dropdown-toggle" href="/book-publishing.html" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
+                          <a class="nav-link dropdown-toggle" href="/book-publishing.php" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.html">Amazon KDP Publishing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.html">Barnes & Noble Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.php">Amazon KDP Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.php">Barnes & Noble Publishing</a></li>
                           </ul>
                         </li>
-                         <li class="nav-item"><a class="nav-link" href="/book-marketing.html">Book Marketing</a></li> 
-                         <li class="nav-item"><a class="nav-link" href="/childrens-book-illustration.html">Children Books Illustration</a></li>                                                                                     
+                         <li class="nav-item"><a class="nav-link" href="/book-marketing.php">Book Marketing</a></li> 
+                         <li class="nav-item"><a class="nav-link" href="/childrens-book-illustration.php">Children Books Illustration</a></li>                                                                                     
                          <li class="nav-item dropdown">
                           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">More Services</a>
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">    
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.html">Audio Books</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.html">Author Website Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.html">Book Cover Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.html">Book Editing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.html">Book Formatting</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.html">Ghostwriting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.php">Audio Books</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.php">Author Website Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.php">Book Cover Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.php">Book Editing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.php">Book Formatting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.php">Ghostwriting</a></li>
                           </ul>
                         </li>
                       </ul>
@@ -151,25 +151,25 @@
 					<div class="close-btn" onclick="toggleSidebar()">×</div>
 					<ul class="">
                         <a class="nav-link" href="/">Home</a></li>
-                        <a class="nav-link" href="/about-us.html">About Us</a></li>
+                        <a class="nav-link" href="/about-us.php">About Us</a></li>
                         <li class="nav-item dropdown navi-drop">
-                          <a class="nav-link dropdown-toggle" href="/book-publishing.html" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
+                          <a class="nav-link dropdown-toggle" href="/book-publishing.php" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">Book Publishing</a>
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.html">Amazon KDP Publishing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.html">Barnes & Noble Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/amazon-kdp-publishing.php">Amazon KDP Publishing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/barnes-and-noble-publishing.php">Barnes & Noble Publishing</a></li>
                           </ul>
                         </li>
-                       <a class="nav-link" href="/book-marketing.html">Book Marketing</a></li> 
-                         <a class="nav-link" href="/childrens-book-illustration.html">Children Books Illustration</a></li>                                                                                     
+                       <a class="nav-link" href="/book-marketing.php">Book Marketing</a></li> 
+                         <a class="nav-link" href="/childrens-book-illustration.php">Children Books Illustration</a></li>                                                                                     
                          <li class="nav-item dropdown navi-drop">
                           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">More Services</a>
                           <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">    
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.html">Audio Books</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.html">Author Website Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.html">Book Cover Design</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.html">Book Editing</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.html">Book Formatting</a></li>
-                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.html">Ghostwriting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/audio-book.php">Audio Books</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/author-website-design.php">Author Website Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-cover-design.php">Book Cover Design</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-editing.php">Book Editing</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/book-formatting.php">Book Formatting</a></li>
+                            <li class="dropdown-submenu"><a class="dropdown-item " href="/ghostwriting.php">Ghostwriting</a></li>
                           </ul>
                         </li>
                       </ul>
