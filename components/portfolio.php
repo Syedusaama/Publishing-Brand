@@ -1,7 +1,7 @@
 <!--  -->
 <section class="portfolio-tabs">
   <div class="container" >
-             <div class="heading__web text-center">
+         <div class="heading__web text-center">
                 <h2>Check Out Our Most Recent Designs</h2>
                 <p>Browse through our latest design projects, demonstrating our commitment to creativity,<br>  innovation, and client satisfaction.</p>
             </div>
@@ -22,33 +22,30 @@
                   <li>
                       <div class="portfolio-items-box">
                           <div class="gallery">
-                            <div class="row for-m">
-                                <div class="col img-hover-zoom ">
+                            <div class="row">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/biography/b1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/children/c1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/fiction/f1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/health/h1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                            </div>
-                            <div class="row for-m">
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/horror/h1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/memoir/m1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/non-fiction/nf1.jpg" alt="a forest after an apocalypse">
                                 </div>
-                                <div class="col img-hover-zoom ">
+                                <div class="col-md-3 col img-hover-zoom ">
                                     <img src="./assets/images/portfolio/romance/r1.jpg" alt="a forest after an apocalypse">
-                                </div>
                                 </div>
                               </div>
                           </div>
