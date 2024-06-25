@@ -494,7 +494,7 @@
 								<img srcset="assets/images/review-img-01.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Jaxon Wilder</span>
+								<span class="auth__name">Paul Lamb</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -521,7 +521,7 @@
 								<img srcset="assets/images/review-img-02.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Jesica</span>
+								<span class="auth__name">Jaxon Wilder </span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -548,7 +548,7 @@
 								<img srcset="assets/images/review-img-03.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Paul Lamb</span>
+								<span class="auth__name">Jesica </span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>

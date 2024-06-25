@@ -478,7 +478,7 @@
 								<img srcset="assets/images/review-img-66.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Livia Marlowe</span>
+								<span class="auth__name">A.N</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -505,7 +505,7 @@
 								<img srcset="assets/images/review-img-71.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Ronan Drake</span>
+								<span class="auth__name">Jon May</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
@@ -529,10 +529,10 @@
 		
 						<div class="review_auth">
 							<div class="review__img">
-								<img srcset="assets/images/review-img-22.png" class="img-responsive" alt="review">
+								<img srcset="assets/images/review-img-63.png" class="img-responsive" alt="review">
 							</div>
 							<div class="review__auth">
-								<span class="auth__name">Bastian Voss</span>
+								<span class="auth__name">Anna</span>
 								<span class="auth__des">Author</span>
 							</div>
 						</div>
